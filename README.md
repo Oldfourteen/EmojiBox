@@ -1,6 +1,6 @@
 # EmojiBox
 
-内置微软 Fluent 彩色表情的 Minecraft 聊天表情模组，**完全离线、不联网**，为国内网络环境做了适配，支持中文界面与中文搜索。
+内置微软 Fluent 彩色Emoji表情的 Minecraft 聊天表情模组，**完全离线、不联网**，为国内网络环境做了适配，支持中文界面与中文搜索。
 
 > 本项目 fork 自 [HRZN Studio](https://github.com/HRZNStudio) 的 **Emojiful**，并基于 Minecraft 26.2 / Fabric 重写。
 > 原项目使用 MIT 协议，本项目继续沿用 MIT 协议，原版权声明保留在 [LICENSE](LICENSE) 中。
@@ -10,6 +10,8 @@
 原版 Emojiful 从 GitHub raw、emojidex、Twemoji、Discord CDN、Google Sheets 等境外服务在线拉取表情与屏蔽词。由于网络原因，这些地址在国内基本无法访问，导致表情加载失败、界面空白甚至长时间卡顿。
 
 EmojiBox 把表情资源直接打包进 mod 本体，运行时不发起任何网络请求，开箱即用。
+
+![Uploading 图片.png…]()
 
 ## 主要改动
 
