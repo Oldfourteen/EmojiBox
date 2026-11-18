@@ -1,0 +1,16 @@
+{
+  "emojiful.picker.title": "表情选择",
+  "emojiful.picker.search": "搜索表情…",
+  "emojiful.picker.empty": "没有找到匹配的表情",
+  "emojiful.picker.hint": "点击表情插入到聊天栏",
+  "emojiful.button.tooltip": "表情",
+  "emojiful.category.all": "全部",
+  "emojiful.category.smileys": "表情与情感",
+  "emojiful.category.people": "人物与手势",
+  "emojiful.category.nature": "动物与自然",
+  "emojiful.category.food": "食物与饮品",
+  "emojiful.category.travel": "旅行与地点",
+  "emojiful.category.activities": "活动",
+  "emojiful.category.objects": "物品",
+  "emojiful.category.symbols": "符号"
+}

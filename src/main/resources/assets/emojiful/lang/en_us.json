@@ -1,0 +1,16 @@
+{
+  "emojiful.picker.title": "Emoji Picker",
+  "emojiful.picker.search": "Search emoji...",
+  "emojiful.picker.empty": "No matching emoji",
+  "emojiful.picker.hint": "Click an emoji to insert into chat",
+  "emojiful.button.tooltip": "Emoji",
+  "emojiful.category.all": "All",
+  "emojiful.category.smileys": "Smileys & Emotion",
+  "emojiful.category.people": "People & Body",
+  "emojiful.category.nature": "Animals & Nature",
+  "emojiful.category.food": "Food & Drink",
+  "emojiful.category.travel": "Travel & Places",
+  "emojiful.category.activities": "Activities",
+  "emojiful.category.objects": "Objects",
+  "emojiful.category.symbols": "Symbols"
+}

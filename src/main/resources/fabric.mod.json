@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "emojiful",
+  "version": "1.0.0",
+  "name": "EmojiBox",
+  "description": "内置微软 Fluent 彩色表情的聊天表情模组，完全离线可用，支持中文搜索。基于 Emojiful 重构的分支。",
+  "authors": [
+    "OFteen"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "icon": "assets/emojiful/icon.png",
+  "entrypoints": {
+    "client": [
+      "com.hrznstudio.emojiful.EmojifulClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": ">=26.2",
+    "java": ">=25"
+  }
+}

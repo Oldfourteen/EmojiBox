@@ -1,0 +1,8239 @@
+{
+ "categories": [
+  {
+   "id": "smileys",
+   "zh": "表情与情感",
+   "en": "Smileys & Emotion"
+  },
+  {
+   "id": "people",
+   "zh": "人物与手势",
+   "en": "People & Body"
+  },
+  {
+   "id": "nature",
+   "zh": "动物与自然",
+   "en": "Animals & Nature"
+  },
+  {
+   "id": "food",
+   "zh": "食物与饮品",
+   "en": "Food & Drink"
+  },
+  {
+   "id": "travel",
+   "zh": "旅行与地点",
+   "en": "Travel & Places"
+  },
+  {
+   "id": "activities",
+   "zh": "活动",
+   "en": "Activities"
+  },
+  {
+   "id": "objects",
+   "zh": "物品",
+   "en": "Objects"
+  },
+  {
+   "id": "symbols",
+   "zh": "符号",
+   "en": "Symbols"
+  }
+ ],
+ "emojis": [
+  {
+   "n": "grinning",
+   "a": [
+    "grinning",
+    "grinning_face"
+   ],
+   "zh": "嘿嘿",
+   "kw": [
+    "笑脸",
+    "脸",
+    "高兴"
+   ],
+   "cp": 57344,
+   "cat": "smileys"
+  },
+  {
+   "n": "smiley",
+   "a": [
+    "smiley",
+    "grinning_face_with_big_eyes"
+   ],
+   "zh": "哈哈",
+   "kw": [
+    "太棒了",
+    "开口笑",
+    "开口笑脸",
+    "笑脸",
+    "脸",
+    "高兴"
+   ],
+   "cp": 57345,
+   "cat": "smileys"
+  },
+  {
+   "n": "smile",
+   "a": [
+    "smile",
+    "grinning_face_with_smiling_eyes"
+   ],
+   "zh": "大笑",
+   "kw": [
+    "哈哈",
+    "开口而笑的脸",
+    "开心",
+    "笑",
+    "脸",
+    "露齿而笑"
+   ],
+   "cp": 57346,
+   "cat": "smileys"
+  },
+  {
+   "n": "grin",
+   "a": [
+    "grin",
+    "beaming_face_with_smiling_eyes"
+   ],
+   "zh": "嘻嘻",
+   "kw": [
+    "笑脸",
+    "笑颜",
+    "脸",
+    "露齿而笑"
+   ],
+   "cp": 57347,
+   "cat": "smileys"
+  },
+  {
+   "n": "laughing",
+   "a": [
+    "laughing",
+    "satisfied",
+    "grinning_squinting_face"
+   ],
+   "zh": "斜眼笑",
+   "kw": [
+    "lol",
+    "咧嘴笑",
+    "哈哈",
+    "开心",
+    "眯眼",
+    "眯眼大笑"
+   ],
+   "cp": 57348,
+   "cat": "smileys"
+  },
+  {
+   "n": "sweat_smile",
+   "a": [
+    "sweat_smile",
+    "grinning_face_with_sweat"
+   ],
+   "zh": "苦笑",
+   "kw": [
+    "冷汗",
+    "出汗",
+    "开口冒冷汗的脸",
+    "汗",
+    "泄气",
+    "紧张"
+   ],
+   "cp": 57349,
+   "cat": "smileys"
+  },
+  {
+   "n": "rofl",
+   "a": [
+    "rofl",
+    "rolling_on_the_floor_laughing"
+   ],
+   "zh": "笑得满地打滚",
+   "kw": [
+    "lolol",
+    "乐翻了",
+    "哈哈",
+    "地板",
+    "太扯了",
+    "打滚"
+   ],
+   "cp": 57350,
+   "cat": "smileys"
+  },
+  {
+   "n": "joy",
+   "a": [
+    "joy",
+    "face_with_tears_of_joy"
+   ],
+   "zh": "笑哭了",
+   "kw": [
+    "lol",
+    "喜极而泣",
+    "大笑",
+    "眼泪",
+    "笑",
+    "笑哭"
+   ],
+   "cp": 57351,
+   "cat": "smileys"
+  },
+  {
+   "n": "slightly_smiling_face",
+   "a": [
+    "slightly_smiling_face"
+   ],
+   "zh": "呵呵",
+   "kw": [
+    "开心",
+    "浅笑的脸",
+    "笑",
+    "脸"
+   ],
+   "cp": 57352,
+   "cat": "smileys"
+  },
+  {
+   "n": "upside_down_face",
+   "a": [
+    "upside_down_face"
+   ],
+   "zh": "倒脸",
+   "kw": [
+    "好玩",
+    "好笑",
+    "脸",
+    "颠倒",
+    "颠倒的脸"
+   ],
+   "cp": 57353,
+   "cat": "smileys"
+  },
+  {
+   "n": "melting_face",
+   "a": [
+    "melting_face"
+   ],
+   "zh": "融化",
+   "kw": [
+    "冷笑",
+    "哈哈",
+    "尴尬",
+    "微笑",
+    "消失",
+    "液体"
+   ],
+   "cp": 57354,
+   "cat": "smileys"
+  },
+  {
+   "n": "wink",
+   "a": [
+    "wink",
+    "winking_face"
+   ],
+   "zh": "眨眼",
+   "kw": [
+    "媚眼",
+    "撩拨",
+    "眨眼的脸",
+    "笑",
+    "脸"
+   ],
+   "cp": 57355,
+   "cat": "smileys"
+  },
+  {
+   "n": "blush",
+   "a": [
+    "blush",
+    "smiling_face_with_smiling_eyes"
+   ],
+   "zh": "羞涩微笑",
+   "kw": [
+    "害羞",
+    "微笑",
+    "满意",
+    "笑脸相迎",
+    "羞涩",
+    "脸"
+   ],
+   "cp": 57356,
+   "cat": "smileys"
+  },
+  {
+   "n": "innocent",
+   "a": [
+    "innocent",
+    "smiling_face_with_halo"
+   ],
+   "zh": "微笑天使",
+   "kw": [
+    "光环",
+    "天使",
+    "天真",
+    "幻想",
+    "微笑",
+    "脸"
+   ],
+   "cp": 57357,
+   "cat": "smileys"
+  },
+  {
+   "n": "smiling_face_with_hearts",
+   "a": [
+    "smiling_face_with_hearts"
+   ],
+   "zh": "喜笑颜开",
+   "kw": [
+    "三颗爱心的笑脸",
+    "心",
+    "我爱你",
+    "爱慕",
+    "相爱",
+    "笑脸"
+   ],
+   "cp": 57358,
+   "cat": "smileys"
+  },
+  {
+   "n": "heart_eyes",
+   "a": [
+    "heart_eyes",
+    "smiling_face_with_heart_eyes"
+   ],
+   "zh": "花痴",
+   "kw": [
+    "我爱你",
+    "爱",
+    "红心",
+    "脸"
+   ],
+   "cp": 57359,
+   "cat": "smileys"
+  },
+  {
+   "n": "star_struck",
+   "a": [
+    "star_struck"
+   ],
+   "zh": "好崇拜哦",
+   "kw": [
+    "兴奋",
+    "咧嘴笑",
+    "满天星",
+    "满眼星",
+    "脸",
+    "追星族"
+   ],
+   "cp": 57360,
+   "cat": "smileys"
+  },
+  {
+   "n": "kissing_heart",
+   "a": [
+    "kissing_heart",
+    "face_blowing_a_kiss"
+   ],
+   "zh": "飞吻",
+   "kw": [
+    "亲亲",
+    "想你",
+    "我爱你",
+    "眨眼",
+    "脸"
+   ],
+   "cp": 57361,
+   "cat": "smileys"
+  },
+  {
+   "n": "kissing",
+   "a": [
+    "kissing",
+    "kissing_face"
+   ],
+   "zh": "亲亲",
+   "kw": [
+    "亲吻",
+    "吻",
+    "脸"
+   ],
+   "cp": 57362,
+   "cat": "smileys"
+  },
+  {
+   "n": "relaxed",
+   "a": [
+    "relaxed",
+    "smiling_face"
+   ],
+   "zh": "微笑",
+   "kw": [
+    "呵呵",
+    "开心",
+    "放松",
+    "笑",
+    "脸"
+   ],
+   "cp": 57363,
+   "cat": "smileys"
+  },
+  {
+   "n": "kissing_closed_eyes",
+   "a": [
+    "kissing_closed_eyes",
+    "kissing_face_with_closed_eyes"
+   ],
+   "zh": "羞涩亲亲",
+   "kw": [
+    "亲亲",
+    "吻",
+    "我爱你",
+    "羞涩",
+    "脸",
+    "闭眼"
+   ],
+   "cp": 57364,
+   "cat": "smileys"
+  },
+  {
+   "n": "kissing_smiling_eyes",
+   "a": [
+    "kissing_smiling_eyes",
+    "kissing_face_with_smiling_eyes"
+   ],
+   "zh": "微笑亲亲",
+   "kw": [
+    "亲亲",
+    "吻",
+    "微笑",
+    "笑颜亲吻",
+    "脸"
+   ],
+   "cp": 57365,
+   "cat": "smileys"
+  },
+  {
+   "n": "smiling_face_with_tear",
+   "a": [
+    "smiling_face_with_tear"
+   ],
+   "zh": "含泪的笑脸",
+   "kw": [
+    "喜悦",
+    "喜极而泣",
+    "幸福",
+    "微笑",
+    "微笑的",
+    "感动"
+   ],
+   "cp": 57366,
+   "cat": "smileys"
+  },
+  {
+   "n": "yum",
+   "a": [
+    "yum",
+    "face_savoring_food"
+   ],
+   "zh": "好吃",
+   "kw": [
+    "口水",
+    "哈喇子",
+    "津津有味",
+    "流口水",
+    "美味",
+    "脸"
+   ],
+   "cp": 57367,
+   "cat": "smileys"
+  },
+  {
+   "n": "stuck_out_tongue",
+   "a": [
+    "stuck_out_tongue",
+    "face_with_tongue"
+   ],
+   "zh": "吐舌",
+   "kw": [
+    "吐舌头的脸",
+    "太好了",
+    "脸",
+    "舌头",
+    "调皮"
+   ],
+   "cp": 57368,
+   "cat": "smileys"
+  },
+  {
+   "n": "winking_face_with_tongue",
+   "a": [
+    "winking_face_with_tongue"
+   ],
+   "zh": "眨眼吐舌",
+   "kw": [
+    "古灵精怪",
+    "吐舌",
+    "开玩笑",
+    "挤眉弄眼",
+    "搞怪",
+    "眨眼"
+   ],
+   "cp": 57369,
+   "cat": "smileys"
+  },
+  {
+   "n": "zany_face",
+   "a": [
+    "zany_face"
+   ],
+   "zh": "滑稽",
+   "kw": [
+    "大小眼",
+    "大眼",
+    "小眼",
+    "滑稽的脸",
+    "疯狂的脸",
+    "疯眼"
+   ],
+   "cp": 57370,
+   "cat": "smileys"
+  },
+  {
+   "n": "squinting_face_with_tongue",
+   "a": [
+    "squinting_face_with_tongue"
+   ],
+   "zh": "眯眼吐舌",
+   "kw": [
+    "可怕",
+    "吐舌",
+    "尝",
+    "眯眼",
+    "眼睛",
+    "脸"
+   ],
+   "cp": 57371,
+   "cat": "smileys"
+  },
+  {
+   "n": "money_mouth_face",
+   "a": [
+    "money_mouth_face"
+   ],
+   "zh": "发财",
+   "kw": [
+    "拜金",
+    "脸",
+    "见钱眼开",
+    "金钱至上",
+    "钱"
+   ],
+   "cp": 57372,
+   "cat": "smileys"
+  },
+  {
+   "n": "hugs",
+   "a": [
+    "hugs",
+    "smiling_face_with_open_hands"
+   ],
+   "zh": "抱抱",
+   "kw": [
+    "抱",
+    "拥抱",
+    "笑",
+    "脸"
+   ],
+   "cp": 57373,
+   "cat": "smileys"
+  },
+  {
+   "n": "hand_over_mouth",
+   "a": [
+    "hand_over_mouth",
+    "face_with_hand_over_mouth"
+   ],
+   "zh": "不说",
+   "kw": [
+    "不可说",
+    "傻笑",
+    "吃吃傻笑",
+    "哎呀",
+    "意外",
+    "捂嘴而笑"
+   ],
+   "cp": 57374,
+   "cat": "smileys"
+  },
+  {
+   "n": "face_with_open_eyes_and_hand_over_mouth",
+   "a": [
+    "face_with_open_eyes_and_hand_over_mouth"
+   ],
+   "zh": "睁眼捂嘴",
+   "kw": [
+    "哇塞",
+    "哑口无言",
+    "害怕",
+    "尴尬",
+    "怀疑",
+    "惊奇"
+   ],
+   "cp": 57375,
+   "cat": "smileys"
+  },
+  {
+   "n": "face_with_peeking_eye",
+   "a": [
+    "face_with_peeking_eye"
+   ],
+   "zh": "偷看",
+   "kw": [
+    "偷窥",
+    "凝视",
+    "害怕",
+    "害羞",
+    "尴尬",
+    "迷住"
+   ],
+   "cp": 57376,
+   "cat": "smileys"
+  },
+  {
+   "n": "shushing_face",
+   "a": [
+    "shushing_face"
+   ],
+   "zh": "安静的脸",
+   "kw": [
+    "嘘",
+    "嘘声手势的脸",
+    "安静"
+   ],
+   "cp": 57377,
+   "cat": "smileys"
+  },
+  {
+   "n": "thinking",
+   "a": [
+    "thinking",
+    "thinking_face"
+   ],
+   "zh": "想一想",
+   "kw": [
+    "思考",
+    "想",
+    "想事情",
+    "脸"
+   ],
+   "cp": 57378,
+   "cat": "smileys"
+  },
+  {
+   "n": "saluting_face",
+   "a": [
+    "saluting_face"
+   ],
+   "zh": "致敬",
+   "kw": [
+    "军队",
+    "好",
+    "好的",
+    "收到",
+    "敬礼",
+    "是"
+   ],
+   "cp": 57379,
+   "cat": "smileys"
+  },
+  {
+   "n": "zipper_mouth_face",
+   "a": [
+    "zipper_mouth_face"
+   ],
+   "zh": "闭嘴",
+   "kw": [
+    "住嘴",
+    "嘴",
+    "封口",
+    "秘密",
+    "脸"
+   ],
+   "cp": 57380,
+   "cat": "smileys"
+  },
+  {
+   "n": "raised_eyebrow",
+   "a": [
+    "raised_eyebrow",
+    "face_with_raised_eyebrow"
+   ],
+   "zh": "挑眉",
+   "kw": [
+    "不信任",
+    "不敢置信",
+    "不赞同",
+    "怀疑",
+    "氧起眉毛的脸",
+    "眉毛上挑的脸"
+   ],
+   "cp": 57381,
+   "cat": "smileys"
+  },
+  {
+   "n": "neutral_face",
+   "a": [
+    "neutral_face"
+   ],
+   "zh": "冷漠",
+   "kw": [
+    "无感",
+    "脸",
+    "表情空洞",
+    "面无表情"
+   ],
+   "cp": 57382,
+   "cat": "smileys"
+  },
+  {
+   "n": "expressionless",
+   "a": [
+    "expressionless",
+    "expressionless_face"
+   ],
+   "zh": "无语",
+   "kw": [
+    "没有反应",
+    "绷着脸",
+    "脸",
+    "茫然",
+    "面无表情"
+   ],
+   "cp": 57383,
+   "cat": "smileys"
+  },
+  {
+   "n": "no_mouth",
+   "a": [
+    "no_mouth",
+    "face_without_mouth"
+   ],
+   "zh": "沉默",
+   "kw": [
+    "嘴",
+    "安静",
+    "没嘴",
+    "秘密",
+    "脸"
+   ],
+   "cp": 57384,
+   "cat": "smileys"
+  },
+  {
+   "n": "dotted_line_face",
+   "a": [
+    "dotted_line_face"
+   ],
+   "zh": "虚线脸",
+   "kw": [
+    "内向",
+    "无所谓",
+    "沮丧",
+    "消失",
+    "隐形",
+    "隐藏"
+   ],
+   "cp": 57385,
+   "cat": "smileys"
+  },
+  {
+   "n": "face_in_clouds",
+   "a": [
+    "face_in_clouds"
+   ],
+   "zh": "迷茫",
+   "kw": [
+    "迷茫"
+   ],
+   "cp": 57386,
+   "cat": "smileys"
+  },
+  {
+   "n": "smirk",
+   "a": [
+    "smirk",
+    "smirking_face"
+   ],
+   "zh": "得意",
+   "kw": [
+    "假笑",
+    "冷笑",
+    "得意的笑",
+    "脸",
+    "诡异地笑"
+   ],
+   "cp": 57387,
+   "cat": "smileys"
+  },
+  {
+   "n": "unamused",
+   "a": [
+    "unamused",
+    "unamused_face"
+   ],
+   "zh": "不高兴",
+   "kw": [
+    "不屑",
+    "不服",
+    "不爽的脸",
+    "脸",
+    "郁闷",
+    "鄙视"
+   ],
+   "cp": 57388,
+   "cat": "smileys"
+  },
+  {
+   "n": "roll_eyes",
+   "a": [
+    "roll_eyes",
+    "face_with_rolling_eyes"
+   ],
+   "zh": "翻白眼",
+   "kw": [
+    "不敢苟同",
+    "无语",
+    "白眼",
+    "脸",
+    "随便啦"
+   ],
+   "cp": 57389,
+   "cat": "smileys"
+  },
+  {
+   "n": "grimacing",
+   "a": [
+    "grimacing",
+    "grimacing_face"
+   ],
+   "zh": "龇牙咧嘴",
+   "kw": [
+    "咬牙切齿",
+    "尴尬",
+    "牙医",
+    "脸",
+    "露齿",
+    "露齿而笑"
+   ],
+   "cp": 57390,
+   "cat": "smileys"
+  },
+  {
+   "n": "face_exhaling",
+   "a": [
+    "face_exhaling"
+   ],
+   "zh": "呼气",
+   "kw": [
+    "叹息",
+    "叹气",
+    "吹气",
+    "呼气的脸",
+    "唉",
+    "无奈"
+   ],
+   "cp": 57391,
+   "cat": "smileys"
+  },
+  {
+   "n": "lying_face",
+   "a": [
+    "lying_face"
+   ],
+   "zh": "说谎",
+   "kw": [
+    "匹诺曹",
+    "脸",
+    "长鼻子",
+    "长鼻子脸"
+   ],
+   "cp": 57392,
+   "cat": "smileys"
+  },
+  {
+   "n": "shaking_face",
+   "a": [
+    "shaking_face"
+   ],
+   "zh": "颤抖",
+   "kw": [
+    "哇",
+    "地震",
+    "天啊",
+    "惊喜",
+    "惊慌",
+    "晕头转向"
+   ],
+   "cp": 57393,
+   "cat": "smileys"
+  },
+  {
+   "n": "head_shaking_horizontally",
+   "a": [
+    "head_shaking_horizontally"
+   ],
+   "zh": "左右摇头",
+   "kw": [
+    "否定",
+    "摇头"
+   ],
+   "cp": 57394,
+   "cat": "smileys"
+  },
+  {
+   "n": "head_shaking_vertically",
+   "a": [
+    "head_shaking_vertically"
+   ],
+   "zh": "上下点头",
+   "kw": [
+    "点头，肯定"
+   ],
+   "cp": 57395,
+   "cat": "smileys"
+  },
+  {
+   "n": "relieved",
+   "a": [
+    "relieved",
+    "relieved_face"
+   ],
+   "zh": "松了口气",
+   "kw": [
+    "如释重负",
+    "松口气",
+    "脸",
+    "蝉"
+   ],
+   "cp": 57396,
+   "cat": "smileys"
+  },
+  {
+   "n": "pensive",
+   "a": [
+    "pensive",
+    "pensive_face"
+   ],
+   "zh": "沉思",
+   "kw": [
+    "失落",
+    "心事重重",
+    "忧虑",
+    "脸"
+   ],
+   "cp": 57397,
+   "cat": "smileys"
+  },
+  {
+   "n": "sleepy",
+   "a": [
+    "sleepy",
+    "sleepy_face"
+   ],
+   "zh": "困",
+   "kw": [
+    "哭",
+    "想睡",
+    "满脸睡容",
+    "疲惫",
+    "睡觉",
+    "瞌睡"
+   ],
+   "cp": 57398,
+   "cat": "smileys"
+  },
+  {
+   "n": "drooling_face",
+   "a": [
+    "drooling_face"
+   ],
+   "zh": "流口水",
+   "kw": [
+    "口水",
+    "垂涎",
+    "垂涎三尺",
+    "流口水的脸",
+    "脸"
+   ],
+   "cp": 57399,
+   "cat": "smileys"
+  },
+  {
+   "n": "sleeping",
+   "a": [
+    "sleeping",
+    "sleeping_face"
+   ],
+   "zh": "睡着了",
+   "kw": [
+    "呼噜",
+    "小睡",
+    "想睡",
+    "打呼",
+    "晚安",
+    "睡容"
+   ],
+   "cp": 57400,
+   "cat": "smileys"
+  },
+  {
+   "n": "tired_face",
+   "a": [
+    "tired_face",
+    "face_with_bags_under_eyes"
+   ],
+   "zh": "有眼袋",
+   "kw": [
+    "厌倦",
+    "困倦",
+    "晚睡",
+    "熬夜",
+    "疲倦",
+    "疲劳"
+   ],
+   "cp": 57401,
+   "cat": "smileys"
+  },
+  {
+   "n": "mask",
+   "a": [
+    "mask",
+    "face_with_medical_mask"
+   ],
+   "zh": "感冒",
+   "kw": [
+    "医生",
+    "口罩",
+    "戴口罩",
+    "戴口罩的脸",
+    "生病",
+    "病菌"
+   ],
+   "cp": 57402,
+   "cat": "smileys"
+  },
+  {
+   "n": "face_with_thermometer",
+   "a": [
+    "face_with_thermometer"
+   ],
+   "zh": "发烧",
+   "kw": [
+    "体温计",
+    "咬着体温计的脸",
+    "温度计",
+    "生病",
+    "脸",
+    "量体温"
+   ],
+   "cp": 57403,
+   "cat": "smileys"
+  },
+  {
+   "n": "face_with_head_bandage",
+   "a": [
+    "face_with_head_bandage"
+   ],
+   "zh": "受伤",
+   "kw": [
+    "头绑绷带",
+    "打绷带",
+    "脸"
+   ],
+   "cp": 57404,
+   "cat": "smileys"
+  },
+  {
+   "n": "nauseated_face",
+   "a": [
+    "nauseated_face"
+   ],
+   "zh": "恶心",
+   "kw": [
+    "吐",
+    "呕",
+    "恶心作呕的脸",
+    "脸",
+    "脸绿了"
+   ],
+   "cp": 57405,
+   "cat": "smileys"
+  },
+  {
+   "n": "vomiting_face",
+   "a": [
+    "vomiting_face",
+    "face_vomiting"
+   ],
+   "zh": "呕吐",
+   "kw": [
+    "不舒服",
+    "吐",
+    "呕吐的脸",
+    "生病",
+    "病容",
+    "病恹恹"
+   ],
+   "cp": 57406,
+   "cat": "smileys"
+  },
+  {
+   "n": "sneezing_face",
+   "a": [
+    "sneezing_face"
+   ],
+   "zh": "打喷嚏",
+   "kw": [
+    "喷嚏",
+    "打喷嚏的脸",
+    "生病",
+    "脸",
+    "鼻涕"
+   ],
+   "cp": 57407,
+   "cat": "smileys"
+  },
+  {
+   "n": "hot_face",
+   "a": [
+    "hot_face"
+   ],
+   "zh": "脸发烧",
+   "kw": [
+    "中暑",
+    "冒汗",
+    "出汗",
+    "发烧",
+    "发热",
+    "吐舌"
+   ],
+   "cp": 57408,
+   "cat": "smileys"
+  },
+  {
+   "n": "cold_face",
+   "a": [
+    "cold_face"
+   ],
+   "zh": "冷脸",
+   "kw": [
+    "冰柱",
+    "冷",
+    "冷冰冰",
+    "冻",
+    "冻僵",
+    "满面寒霜"
+   ],
+   "cp": 57409,
+   "cat": "smileys"
+  },
+  {
+   "n": "woozy_face",
+   "a": [
+    "woozy_face"
+   ],
+   "zh": "头昏眼花",
+   "kw": [
+    "两眼不平",
+    "喝醉",
+    "嘴唇颤抖",
+    "头晕目眩",
+    "头晕眼花",
+    "微醉"
+   ],
+   "cp": 57410,
+   "cat": "smileys"
+  },
+  {
+   "n": "face_with_spiral_eyes",
+   "a": [
+    "face_with_spiral_eyes"
+   ],
+   "zh": "晕",
+   "kw": [
+    "哇",
+    "哎呀",
+    "头晕",
+    "笑脸",
+    "迷糊"
+   ],
+   "cp": 57411,
+   "cat": "smileys"
+  },
+  {
+   "n": "exploding_head",
+   "a": [
+    "exploding_head"
+   ],
+   "zh": "爆炸头",
+   "kw": [
+    "不可能",
+    "印象深刻",
+    "吓到了",
+    "惊吓",
+    "震惊"
+   ],
+   "cp": 57412,
+   "cat": "smileys"
+  },
+  {
+   "n": "cowboy_hat_face",
+   "a": [
+    "cowboy_hat_face"
+   ],
+   "zh": "牛仔帽脸",
+   "kw": [
+    "帽",
+    "牛仔",
+    "脸"
+   ],
+   "cp": 57413,
+   "cat": "smileys"
+  },
+  {
+   "n": "partying_face",
+   "a": [
+    "partying_face"
+   ],
+   "zh": "聚会笑脸",
+   "kw": [
+    "号角",
+    "喝彩",
+    "帽子",
+    "庆祝",
+    "派对",
+    "狂欢的脸"
+   ],
+   "cp": 57414,
+   "cat": "smileys"
+  },
+  {
+   "n": "disguised_face",
+   "a": [
+    "disguised_face"
+   ],
+   "zh": "伪装的脸",
+   "kw": [
+    "人物",
+    "伪装",
+    "眉毛",
+    "眼镜",
+    "胡子",
+    "脸"
+   ],
+   "cp": 57415,
+   "cat": "smileys"
+  },
+  {
+   "n": "sunglasses",
+   "a": [
+    "sunglasses",
+    "smiling_face_with_sunglasses"
+   ],
+   "zh": "墨镜笑脸",
+   "kw": [
+    "墨镜",
+    "太阳镜",
+    "眼镜",
+    "耶",
+    "脸",
+    "酷"
+   ],
+   "cp": 57416,
+   "cat": "smileys"
+  },
+  {
+   "n": "nerd_face",
+   "a": [
+    "nerd_face"
+   ],
+   "zh": "书呆子脸",
+   "kw": [
+    "专家",
+    "书呆子",
+    "天才",
+    "奇葩",
+    "宅男",
+    "极客"
+   ],
+   "cp": 57417,
+   "cat": "smileys"
+  },
+  {
+   "n": "monocle_face",
+   "a": [
+    "monocle_face",
+    "face_with_monocle"
+   ],
+   "zh": "带单片眼镜的脸",
+   "kw": [
+    "单眼镜",
+    "古板",
+    "奢华",
+    "富有",
+    "戴单眼镜的脸"
+   ],
+   "cp": 57418,
+   "cat": "smileys"
+  },
+  {
+   "n": "confused",
+   "a": [
+    "confused",
+    "confused_face"
+   ],
+   "zh": "困扰",
+   "kw": [
+    "不懂",
+    "不确定",
+    "困惑",
+    "疑惑",
+    "脸"
+   ],
+   "cp": 57419,
+   "cat": "smileys"
+  },
+  {
+   "n": "face_with_diagonal_mouth",
+   "a": [
+    "face_with_diagonal_mouth"
+   ],
+   "zh": "郁闷",
+   "kw": [
+    "不相信",
+    "不确定",
+    "困惑",
+    "失望",
+    "怀疑",
+    "无所谓"
+   ],
+   "cp": 57420,
+   "cat": "smileys"
+  },
+  {
+   "n": "worried",
+   "a": [
+    "worried",
+    "worried_face"
+   ],
+   "zh": "担心",
+   "kw": [
+    "不高兴",
+    "伤心",
+    "忧心的脸",
+    "意外",
+    "担忧",
+    "焦虑"
+   ],
+   "cp": 57421,
+   "cat": "smileys"
+  },
+  {
+   "n": "slightly_frowning_face",
+   "a": [
+    "slightly_frowning_face"
+   ],
+   "zh": "微微不满",
+   "kw": [
+    "不开心",
+    "不高兴",
+    "不高兴的脸",
+    "委屈",
+    "小委屈",
+    "心情不好"
+   ],
+   "cp": 57422,
+   "cat": "smileys"
+  },
+  {
+   "n": "frowning_face",
+   "a": [
+    "frowning_face"
+   ],
+   "zh": "不满",
+   "kw": [
+    "不爽",
+    "不高兴",
+    "委屈",
+    "皱眉",
+    "皱眉的脸",
+    "脸"
+   ],
+   "cp": 57423,
+   "cat": "smileys"
+  },
+  {
+   "n": "open_mouth",
+   "a": [
+    "open_mouth",
+    "face_with_open_mouth"
+   ],
+   "zh": "吃惊",
+   "kw": [
+    "同情",
+    "啊",
+    "忘记",
+    "我不信",
+    "我的天",
+    "脸"
+   ],
+   "cp": 57424,
+   "cat": "smileys"
+  },
+  {
+   "n": "hushed",
+   "a": [
+    "hushed",
+    "hushed_face"
+   ],
+   "zh": "缄默",
+   "kw": [
+    "吃惊",
+    "哦",
+    "我的天",
+    "脸",
+    "静而无语"
+   ],
+   "cp": 57425,
+   "cat": "smileys"
+  },
+  {
+   "n": "astonished",
+   "a": [
+    "astonished",
+    "astonished_face"
+   ],
+   "zh": "震惊",
+   "kw": [
+    "不可以",
+    "惊",
+    "惊讶",
+    "惊讶的脸",
+    "没可能",
+    "绝不"
+   ],
+   "cp": 57426,
+   "cat": "smileys"
+  },
+  {
+   "n": "flushed",
+   "a": [
+    "flushed",
+    "flushed_face"
+   ],
+   "zh": "脸红",
+   "kw": [
+    "困惑",
+    "天呀",
+    "害羞",
+    "羞涩",
+    "脸",
+    "茫然"
+   ],
+   "cp": 57427,
+   "cat": "smileys"
+  },
+  {
+   "n": "pleading_face",
+   "a": [
+    "pleading_face"
+   ],
+   "zh": "恳求的脸",
+   "kw": [
+    "可怜兮兮的眼神",
+    "大眼睛",
+    "小狗的脸",
+    "怜悯",
+    "祈求",
+    "祈求的脸"
+   ],
+   "cp": 57428,
+   "cat": "smileys"
+  },
+  {
+   "n": "face_holding_back_tears",
+   "a": [
+    "face_holding_back_tears"
+   ],
+   "zh": "忍住泪水",
+   "kw": [
+    "哭泣",
+    "喜极而泣",
+    "尴尬",
+    "悲伤",
+    "情绪",
+    "感激"
+   ],
+   "cp": 57429,
+   "cat": "smileys"
+  },
+  {
+   "n": "frowning",
+   "a": [
+    "frowning",
+    "frowning_face_with_open_mouth"
+   ],
+   "zh": "啊",
+   "kw": [
+    "惊讶",
+    "意外",
+    "目瞪口呆",
+    "脸"
+   ],
+   "cp": 57430,
+   "cat": "smileys"
+  },
+  {
+   "n": "anguished",
+   "a": [
+    "anguished",
+    "anguished_face"
+   ],
+   "zh": "极度痛苦",
+   "kw": [
+    "痛",
+    "痛啊",
+    "痛苦",
+    "脸",
+    "难受"
+   ],
+   "cp": 57431,
+   "cat": "smileys"
+  },
+  {
+   "n": "fearful",
+   "a": [
+    "fearful",
+    "fearful_face"
+   ],
+   "zh": "害怕",
+   "kw": [
+    "不安",
+    "怕",
+    "恐怖",
+    "恐惧",
+    "脸"
+   ],
+   "cp": 57432,
+   "cat": "smileys"
+  },
+  {
+   "n": "cold_sweat",
+   "a": [
+    "cold_sweat",
+    "anxious_face_with_sweat"
+   ],
+   "zh": "冷汗",
+   "kw": [
+    "张嘴冒冷汗的脸",
+    "惊讶",
+    "无语",
+    "汗",
+    "焦虑",
+    "紧张"
+   ],
+   "cp": 57433,
+   "cat": "smileys"
+  },
+  {
+   "n": "disappointed_relieved",
+   "a": [
+    "disappointed_relieved",
+    "sad_but_relieved_face"
+   ],
+   "zh": "失望但如释重负",
+   "kw": [
+    "下次吧",
+    "出冷汗",
+    "失望",
+    "失望但解脱",
+    "如释重负",
+    "脸"
+   ],
+   "cp": 57434,
+   "cat": "smileys"
+  },
+  {
+   "n": "cry",
+   "a": [
+    "cry",
+    "crying_face"
+   ],
+   "zh": "哭",
+   "kw": [
+    "伤心",
+    "哀伤",
+    "哭脸",
+    "泪",
+    "脸"
+   ],
+   "cp": 57435,
+   "cat": "smileys"
+  },
+  {
+   "n": "sob",
+   "a": [
+    "sob",
+    "loudly_crying_face"
+   ],
+   "zh": "放声大哭",
+   "kw": [
+    "哭",
+    "大哭",
+    "放声大哭的脸",
+    "泪",
+    "痛哭",
+    "脸"
+   ],
+   "cp": 57436,
+   "cat": "smileys"
+  },
+  {
+   "n": "scream",
+   "a": [
+    "scream",
+    "face_screaming_in_fear"
+   ],
+   "zh": "吓死了",
+   "kw": [
+    "吓死",
+    "害怕",
+    "尖叫",
+    "恐怖",
+    "惊吓大叫的脸",
+    "脸"
+   ],
+   "cp": 57437,
+   "cat": "smileys"
+  },
+  {
+   "n": "confounded",
+   "a": [
+    "confounded",
+    "confounded_face"
+   ],
+   "zh": "困惑",
+   "kw": [
+    "困惑的脸",
+    "焦头烂额",
+    "纠结",
+    "脸"
+   ],
+   "cp": 57438,
+   "cat": "smileys"
+  },
+  {
+   "n": "persevere",
+   "a": [
+    "persevere",
+    "persevering_face"
+   ],
+   "zh": "痛苦",
+   "kw": [
+    "专注",
+    "入定",
+    "头痛",
+    "忍耐",
+    "脸",
+    "难受"
+   ],
+   "cp": 57439,
+   "cat": "smileys"
+  },
+  {
+   "n": "disappointed",
+   "a": [
+    "disappointed",
+    "disappointed_face"
+   ],
+   "zh": "失望",
+   "kw": [
+    "不高兴",
+    "失望的脸",
+    "脸",
+    "难过"
+   ],
+   "cp": 57440,
+   "cat": "smileys"
+  },
+  {
+   "n": "sweat",
+   "a": [
+    "sweat",
+    "downcast_face_with_sweat"
+   ],
+   "zh": "汗",
+   "kw": [
+    "冒冷汗",
+    "冒汗",
+    "冷",
+    "尴尬",
+    "担心",
+    "脸"
+   ],
+   "cp": 57441,
+   "cat": "smileys"
+  },
+  {
+   "n": "weary",
+   "a": [
+    "weary",
+    "weary_face"
+   ],
+   "zh": "累死了",
+   "kw": [
+    "疲倦",
+    "疲劳",
+    "疲惫",
+    "累",
+    "脸"
+   ],
+   "cp": 57442,
+   "cat": "smileys"
+  },
+  {
+   "n": "tired_face",
+   "a": [
+    "tired_face"
+   ],
+   "zh": "累",
+   "kw": [
+    "倦容",
+    "疲倦",
+    "疲劳",
+    "疲惫",
+    "脸"
+   ],
+   "cp": 57443,
+   "cat": "smileys"
+  },
+  {
+   "n": "yawning_face",
+   "a": [
+    "yawning_face"
+   ],
+   "zh": "打呵欠",
+   "kw": [
+    "呵欠",
+    "哈欠",
+    "困",
+    "困倦",
+    "夜里",
+    "打哈欠"
+   ],
+   "cp": 57444,
+   "cat": "smileys"
+  },
+  {
+   "n": "triumph",
+   "a": [
+    "triumph",
+    "face_with_steam_from_nose"
+   ],
+   "zh": "傲慢",
+   "kw": [
+    "不爽",
+    "愤怒",
+    "气炸了",
+    "胜利",
+    "自负",
+    "赢"
+   ],
+   "cp": 57445,
+   "cat": "smileys"
+  },
+  {
+   "n": "angry",
+   "a": [
+    "angry",
+    "angry_face"
+   ],
+   "zh": "生气",
+   "kw": [
+    "不爽",
+    "不高兴",
+    "怒",
+    "愤怒",
+    "脸"
+   ],
+   "cp": 57446,
+   "cat": "smileys"
+  },
+  {
+   "n": "cursing_face",
+   "a": [
+    "cursing_face",
+    "face_with_symbols_on_mouth"
+   ],
+   "zh": "嘴上有符号的脸",
+   "kw": [
+    "不爽",
+    "发誓",
+    "咒骂",
+    "生气",
+    "碎碎唸的脸",
+    "脸"
+   ],
+   "cp": 57447,
+   "cat": "smileys"
+  },
+  {
+   "n": "smiling_imp",
+   "a": [
+    "smiling_imp",
+    "smiling_face_with_horns"
+   ],
+   "zh": "恶魔微笑",
+   "kw": [
+    "幻想",
+    "微笑",
+    "犄角",
+    "神话故事",
+    "脸",
+    "邪魔"
+   ],
+   "cp": 57448,
+   "cat": "smileys"
+  },
+  {
+   "n": "imp",
+   "a": [
+    "imp",
+    "angry_face_with_horns"
+   ],
+   "zh": "生气的恶魔",
+   "kw": [
+    "带角的怒容",
+    "幻想",
+    "恶魔",
+    "犄角",
+    "脸",
+    "顽童"
+   ],
+   "cp": 57449,
+   "cat": "smileys"
+  },
+  {
+   "n": "skull",
+   "a": [
+    "skull"
+   ],
+   "zh": "头骨",
+   "kw": [
+    "妖怪",
+    "怪兽",
+    "死亡",
+    "神话故事",
+    "脸",
+    "身体"
+   ],
+   "cp": 57450,
+   "cat": "smileys"
+  },
+  {
+   "n": "skull_and_crossbones",
+   "a": [
+    "skull_and_crossbones"
+   ],
+   "zh": "骷髅",
+   "kw": [
+    "交叉股骨",
+    "头骨",
+    "妖怪",
+    "怪物",
+    "死亡",
+    "海盗"
+   ],
+   "cp": 57451,
+   "cat": "smileys"
+  },
+  {
+   "n": "poop",
+   "a": [
+    "poop",
+    "shit",
+    "hankey",
+    "pile_of_poo"
+   ],
+   "zh": "大便",
+   "kw": [
+    "好臭",
+    "屎",
+    "怪物",
+    "粑粑",
+    "脸",
+    "臭"
+   ],
+   "cp": 57452,
+   "cat": "smileys"
+  },
+  {
+   "n": "clown_face",
+   "a": [
+    "clown_face"
+   ],
+   "zh": "小丑脸",
+   "kw": [
+    "小丑",
+    "脸"
+   ],
+   "cp": 57453,
+   "cat": "smileys"
+  },
+  {
+   "n": "japanese_ogre",
+   "a": [
+    "japanese_ogre",
+    "ogre"
+   ],
+   "zh": "食人魔",
+   "kw": [
+    "吓人",
+    "妖怪",
+    "幻想",
+    "日本",
+    "神话故事",
+    "脸"
+   ],
+   "cp": 57454,
+   "cat": "smileys"
+  },
+  {
+   "n": "japanese_goblin",
+   "a": [
+    "japanese_goblin",
+    "goblin"
+   ],
+   "zh": "小妖精",
+   "kw": [
+    "妖怪",
+    "幻想",
+    "怪物",
+    "日本",
+    "神话故事",
+    "脸"
+   ],
+   "cp": 57455,
+   "cat": "smileys"
+  },
+  {
+   "n": "ghost",
+   "a": [
+    "ghost"
+   ],
+   "zh": "鬼",
+   "kw": [
+    "万圣节",
+    "妖怪",
+    "幻想",
+    "幽灵",
+    "怪物",
+    "神话故事"
+   ],
+   "cp": 57456,
+   "cat": "smileys"
+  },
+  {
+   "n": "alien",
+   "a": [
+    "alien"
+   ],
+   "zh": "外星人",
+   "kw": [
+    "ufo",
+    "外太空",
+    "外星",
+    "太空",
+    "幻想",
+    "星际"
+   ],
+   "cp": 57457,
+   "cat": "smileys"
+  },
+  {
+   "n": "space_invader",
+   "a": [
+    "space_invader",
+    "alien_monster"
+   ],
+   "zh": "外星怪物",
+   "kw": [
+    "ufo",
+    "外星",
+    "外星人",
+    "太空",
+    "怪物",
+    "星际"
+   ],
+   "cp": 57458,
+   "cat": "smileys"
+  },
+  {
+   "n": "robot",
+   "a": [
+    "robot"
+   ],
+   "zh": "机器人",
+   "kw": [
+    "怪物",
+    "脸"
+   ],
+   "cp": 57459,
+   "cat": "smileys"
+  },
+  {
+   "n": "smiley_cat",
+   "a": [
+    "smiley_cat",
+    "grinning_cat"
+   ],
+   "zh": "大笑的猫",
+   "kw": [
+    "哈哈",
+    "大笑的猫脸",
+    "猫脸",
+    "笑",
+    "脸"
+   ],
+   "cp": 57460,
+   "cat": "smileys"
+  },
+  {
+   "n": "smile_cat",
+   "a": [
+    "smile_cat",
+    "grinning_cat_with_smiling_eyes"
+   ],
+   "zh": "微笑的猫",
+   "kw": [
+    "呵呵",
+    "微笑的猫脸",
+    "猫脸",
+    "笑",
+    "笑颜逐开",
+    "脸"
+   ],
+   "cp": 57461,
+   "cat": "smileys"
+  },
+  {
+   "n": "joy_cat",
+   "a": [
+    "joy_cat",
+    "cat_with_tears_of_joy"
+   ],
+   "zh": "笑出眼泪的猫",
+   "kw": [
+    "喜极而泣",
+    "快乐",
+    "猫脸",
+    "眼泪",
+    "笑出眼泪",
+    "笑出眼泪的猫脸"
+   ],
+   "cp": 57462,
+   "cat": "smileys"
+  },
+  {
+   "n": "heart_eyes_cat",
+   "a": [
+    "heart_eyes_cat",
+    "smiling_cat_with_heart_eyes"
+   ],
+   "zh": "花痴的猫",
+   "kw": [
+    "WC",
+    "喜欢",
+    "心",
+    "猫",
+    "猫脸",
+    "脸"
+   ],
+   "cp": 57463,
+   "cat": "smileys"
+  },
+  {
+   "n": "wave",
+   "a": [
+    "wave",
+    "waving_hand"
+   ],
+   "zh": "挥手",
+   "kw": [
+    "你好",
+    "再见",
+    "嗨",
+    "在吗",
+    "手",
+    "等一下"
+   ],
+   "cp": 57464,
+   "cat": "people"
+  },
+  {
+   "n": "raised_back_of_hand",
+   "a": [
+    "raised_back_of_hand"
+   ],
+   "zh": "立起的手背",
+   "kw": [
+    "举起",
+    "举起手背",
+    "手",
+    "手背",
+    "立起"
+   ],
+   "cp": 57465,
+   "cat": "people"
+  },
+  {
+   "n": "hand_with_fingers_splayed",
+   "a": [
+    "hand_with_fingers_splayed"
+   ],
+   "zh": "手掌",
+   "kw": [
+    "举起张开的手掌",
+    "击掌",
+    "布",
+    "手",
+    "禁止"
+   ],
+   "cp": 57466,
+   "cat": "people"
+  },
+  {
+   "n": "hand",
+   "a": [
+    "hand",
+    "raised_hand"
+   ],
+   "zh": "举起手",
+   "kw": [
+    "举手",
+    "举起的手",
+    "五指",
+    "停",
+    "击掌",
+    "手"
+   ],
+   "cp": 57467,
+   "cat": "people"
+  },
+  {
+   "n": "vulcan_salute",
+   "a": [
+    "vulcan_salute"
+   ],
+   "zh": "瓦肯举手礼",
+   "kw": [
+    "手",
+    "敬礼",
+    "斯波克",
+    "星际迷航",
+    "瓦肯"
+   ],
+   "cp": 57468,
+   "cat": "people"
+  },
+  {
+   "n": "rightwards_hand",
+   "a": [
+    "rightwards_hand"
+   ],
+   "zh": "向右的手",
+   "kw": [
+    "伸手",
+    "右",
+    "右手",
+    "向右",
+    "手",
+    "握手"
+   ],
+   "cp": 57469,
+   "cat": "people"
+  },
+  {
+   "n": "leftwards_hand",
+   "a": [
+    "leftwards_hand"
+   ],
+   "zh": "向左的手",
+   "kw": [
+    "伸手",
+    "向左",
+    "左",
+    "左手",
+    "手",
+    "握手"
+   ],
+   "cp": 57470,
+   "cat": "people"
+  },
+  {
+   "n": "palm_down_hand",
+   "a": [
+    "palm_down_hand"
+   ],
+   "zh": "掌心向下的手",
+   "kw": [
+    "下投",
+    "手",
+    "扔掉",
+    "拿起",
+    "捡起",
+    "解散"
+   ],
+   "cp": 57471,
+   "cat": "people"
+  },
+  {
+   "n": "palm_up_hand",
+   "a": [
+    "palm_up_hand"
+   ],
+   "zh": "掌心向上的手",
+   "kw": [
+    "不知道",
+    "召唤",
+    "告诉我",
+    "手",
+    "拿着",
+    "接住"
+   ],
+   "cp": 57472,
+   "cat": "people"
+  },
+  {
+   "n": "leftwards_pushing_hand",
+   "a": [
+    "leftwards_pushing_hand"
+   ],
+   "zh": "向左推",
+   "kw": [
+    "中止",
+    "停止",
+    "击掌",
+    "向左",
+    "往左",
+    "手"
+   ],
+   "cp": 57473,
+   "cat": "people"
+  },
+  {
+   "n": "rightwards_pushing_hand",
+   "a": [
+    "rightwards_pushing_hand"
+   ],
+   "zh": "向右推",
+   "kw": [
+    "中止",
+    "停止",
+    "击掌",
+    "向右",
+    "往右",
+    "手"
+   ],
+   "cp": 57474,
+   "cat": "people"
+  },
+  {
+   "n": "ok_hand",
+   "a": [
+    "ok_hand"
+   ],
+   "zh": "OK",
+   "kw": [
+    "OK 手势",
+    "可以",
+    "同意",
+    "好的",
+    "当然",
+    "手"
+   ],
+   "cp": 57475,
+   "cat": "people"
+  },
+  {
+   "n": "pinched_fingers",
+   "a": [
+    "pinched_fingers"
+   ],
+   "zh": "捏手指",
+   "kw": [
+    "为什么",
+    "你到底在说什么",
+    "匮乏",
+    "审讯",
+    "强调",
+    "您要什么"
+   ],
+   "cp": 57476,
+   "cat": "people"
+  },
+  {
+   "n": "pinching_hand",
+   "a": [
+    "pinching_hand"
+   ],
+   "zh": "捏合的手势",
+   "kw": [
+    "一点",
+    "一点点",
+    "小",
+    "少",
+    "少量",
+    "手指"
+   ],
+   "cp": 57477,
+   "cat": "people"
+  },
+  {
+   "n": "v",
+   "a": [
+    "v",
+    "victory_hand"
+   ],
+   "zh": "胜利手势",
+   "kw": [
+    "V",
+    "和平",
+    "成功",
+    "手",
+    "胜利"
+   ],
+   "cp": 57478,
+   "cat": "people"
+  },
+  {
+   "n": "crossed_fingers",
+   "a": [
+    "crossed_fingers"
+   ],
+   "zh": "交叉的手指",
+   "kw": [
+    "交叉",
+    "幸运",
+    "手",
+    "手指",
+    "祝好运"
+   ],
+   "cp": 57479,
+   "cat": "people"
+  },
+  {
+   "n": "hand_with_index_finger_and_thumb_crossed",
+   "a": [
+    "hand_with_index_finger_and_thumb_crossed"
+   ],
+   "zh": "食指与拇指交叉的手",
+   "kw": [
+    "响指",
+    "心",
+    "手",
+    "昂贵",
+    "比心",
+    "爱"
+   ],
+   "cp": 57480,
+   "cat": "people"
+  },
+  {
+   "n": "love_you_gesture",
+   "a": [
+    "love_you_gesture"
+   ],
+   "zh": "爱你的手势",
+   "kw": [
+    "三种",
+    "我爱你",
+    "手",
+    "爱你"
+   ],
+   "cp": 57481,
+   "cat": "people"
+  },
+  {
+   "n": "metal",
+   "a": [
+    "metal",
+    "sign_of_the_horns"
+   ],
+   "zh": "摇滚",
+   "kw": [
+    "手",
+    "摇滚精神",
+    "燥起来",
+    "角",
+    "金属礼"
+   ],
+   "cp": 57482,
+   "cat": "people"
+  },
+  {
+   "n": "call_me_hand",
+   "a": [
+    "call_me_hand"
+   ],
+   "zh": "给我打电话",
+   "kw": [
+    "手",
+    "打电话给我",
+    "电话",
+    "给我打电话的手势"
+   ],
+   "cp": 57483,
+   "cat": "people"
+  },
+  {
+   "n": "point_left",
+   "a": [
+    "point_left",
+    "backhand_index_pointing_left"
+   ],
+   "zh": "反手食指向左指",
+   "kw": [
+    "反手",
+    "向左指",
+    "手",
+    "指左",
+    "食指"
+   ],
+   "cp": 57484,
+   "cat": "people"
+  },
+  {
+   "n": "point_up_2",
+   "a": [
+    "point_up_2",
+    "backhand_index_pointing_up"
+   ],
+   "zh": "反手食指向上指",
+   "kw": [
+    "反手",
+    "向上指",
+    "手",
+    "指上",
+    "食指"
+   ],
+   "cp": 57485,
+   "cat": "people"
+  },
+  {
+   "n": "fu",
+   "a": [
+    "fu",
+    "middle_finger"
+   ],
+   "zh": "竖中指",
+   "kw": [
+    "中指",
+    "反手",
+    "手"
+   ],
+   "cp": 57486,
+   "cat": "people"
+  },
+  {
+   "n": "point_down",
+   "a": [
+    "point_down",
+    "backhand_index_pointing_down"
+   ],
+   "zh": "反手食指向下指",
+   "kw": [
+    "反手",
+    "向下指",
+    "手",
+    "指下",
+    "食指"
+   ],
+   "cp": 57487,
+   "cat": "people"
+  },
+  {
+   "n": "point_up",
+   "a": [
+    "point_up",
+    "index_pointing_up"
+   ],
+   "zh": "食指向上指",
+   "kw": [
+    "向上指",
+    "手",
+    "指上",
+    "食指"
+   ],
+   "cp": 57488,
+   "cat": "people"
+  },
+  {
+   "n": "index_pointing_at_the_viewer",
+   "a": [
+    "index_pointing_at_the_viewer"
+   ],
+   "zh": "指向观察者的食指",
+   "kw": [
+    "伸出手指",
+    "你",
+    "戳",
+    "手指",
+    "指",
+    "指向"
+   ],
+   "cp": 57489,
+   "cat": "people"
+  },
+  {
+   "n": "+1",
+   "a": [
+    "+1",
+    "thumbsup",
+    "thumbs_up"
+   ],
+   "zh": "拇指向上",
+   "kw": [
+    "同意",
+    "好",
+    "手",
+    "拇指",
+    "真棒",
+    "赞"
+   ],
+   "cp": 57490,
+   "cat": "people"
+  },
+  {
+   "n": "-1",
+   "a": [
+    "-1",
+    "thumbsdown",
+    "thumbs_down"
+   ],
+   "zh": "拇指向下",
+   "kw": [
+    "不赞成",
+    "反对",
+    "否决",
+    "手",
+    "责备"
+   ],
+   "cp": 57491,
+   "cat": "people"
+  },
+  {
+   "n": "fist",
+   "a": [
+    "fist",
+    "fist_raised",
+    "raised_fist"
+   ],
+   "zh": "举起拳头",
+   "kw": [
+    "举拳",
+    "团结",
+    "手",
+    "拳头",
+    "握拳"
+   ],
+   "cp": 57492,
+   "cat": "people"
+  },
+  {
+   "n": "punch",
+   "a": [
+    "punch",
+    "facepunch",
+    "fist_oncoming",
+    "oncoming_fist"
+   ],
+   "zh": "出拳",
+   "kw": [
+    "完全同意",
+    "手",
+    "打",
+    "拳",
+    "挥拳过来",
+    "绝对正确"
+   ],
+   "cp": 57493,
+   "cat": "people"
+  },
+  {
+   "n": "fist_left",
+   "a": [
+    "fist_left",
+    "left_facing_fist"
+   ],
+   "zh": "朝左的拳头",
+   "kw": [
+    "拳头",
+    "朝左"
+   ],
+   "cp": 57494,
+   "cat": "people"
+  },
+  {
+   "n": "fist_right",
+   "a": [
+    "fist_right",
+    "right_facing_fist"
+   ],
+   "zh": "朝右的拳头",
+   "kw": [
+    "手",
+    "拳头",
+    "朝右"
+   ],
+   "cp": 57495,
+   "cat": "people"
+  },
+  {
+   "n": "clap",
+   "a": [
+    "clap",
+    "clapping_hands"
+   ],
+   "zh": "鼓掌",
+   "kw": [
+    "干得好",
+    "恭喜",
+    "拍手",
+    "赞成"
+   ],
+   "cp": 57496,
+   "cat": "people"
+  },
+  {
+   "n": "raised_hands",
+   "a": [
+    "raised_hands",
+    "raising_hands"
+   ],
+   "zh": "举双手",
+   "kw": [
+    "举手",
+    "击掌",
+    "双手",
+    "庆祝",
+    "手"
+   ],
+   "cp": 57497,
+   "cat": "people"
+  },
+  {
+   "n": "heart_hands",
+   "a": [
+    "heart_hands"
+   ],
+   "zh": "做成心形的双手",
+   "kw": [
+    "手",
+    "比心",
+    "爱",
+    "爱你",
+    "爱心"
+   ],
+   "cp": 57498,
+   "cat": "people"
+  },
+  {
+   "n": "open_hands",
+   "a": [
+    "open_hands"
+   ],
+   "zh": "张开双手",
+   "kw": [
+    "十",
+    "双手",
+    "摊手"
+   ],
+   "cp": 57499,
+   "cat": "people"
+  },
+  {
+   "n": "palms_up_together",
+   "a": [
+    "palms_up_together"
+   ],
+   "zh": "掌心向上托起",
+   "kw": [
+    "双掌",
+    "双掌向上",
+    "希望",
+    "祈祷",
+    "祷告"
+   ],
+   "cp": 57500,
+   "cat": "people"
+  },
+  {
+   "n": "handshake",
+   "a": [
+    "handshake"
+   ],
+   "zh": "握手",
+   "kw": [
+    "一言为定",
+    "会面",
+    "协议",
+    "君子协定"
+   ],
+   "cp": 57501,
+   "cat": "people"
+  },
+  {
+   "n": "pray",
+   "a": [
+    "pray",
+    "folded_hands"
+   ],
+   "zh": "双手合十",
+   "kw": [
+    "合掌",
+    "感恩",
+    "拜托",
+    "祈求",
+    "祈祷",
+    "祈福"
+   ],
+   "cp": 57502,
+   "cat": "people"
+  },
+  {
+   "n": "writing_hand",
+   "a": [
+    "writing_hand"
+   ],
+   "zh": "写字",
+   "kw": [
+    "写",
+    "手",
+    "笔"
+   ],
+   "cp": 57503,
+   "cat": "people"
+  },
+  {
+   "n": "nail_care",
+   "a": [
+    "nail_care",
+    "nail_polish"
+   ],
+   "zh": "涂指甲油",
+   "kw": [
+    "修指甲",
+    "忙完了",
+    "护手",
+    "指甲油",
+    "美甲",
+    "闷"
+   ],
+   "cp": 57504,
+   "cat": "people"
+  },
+  {
+   "n": "selfie",
+   "a": [
+    "selfie"
+   ],
+   "zh": "自拍",
+   "kw": [
+    "手机",
+    "相机"
+   ],
+   "cp": 57505,
+   "cat": "people"
+  },
+  {
+   "n": "muscle",
+   "a": [
+    "muscle",
+    "flexed_biceps"
+   ],
+   "zh": "肌肉",
+   "kw": [
+    "二头肌",
+    "健身房",
+    "强壮"
+   ],
+   "cp": 57506,
+   "cat": "people"
+  },
+  {
+   "n": "mechanical_arm",
+   "a": [
+    "mechanical_arm"
+   ],
+   "zh": "机械手臂",
+   "kw": [
+    "义肢",
+    "手臂",
+    "无障碍"
+   ],
+   "cp": 57507,
+   "cat": "people"
+  },
+  {
+   "n": "mechanical_leg",
+   "a": [
+    "mechanical_leg"
+   ],
+   "zh": "机械腿",
+   "kw": [
+    "义肢",
+    "无障碍",
+    "腿"
+   ],
+   "cp": 57508,
+   "cat": "people"
+  },
+  {
+   "n": "leg",
+   "a": [
+    "leg"
+   ],
+   "zh": "腿",
+   "kw": [
+    "弯腿",
+    "肢体",
+    "脚",
+    "跛行",
+    "踢"
+   ],
+   "cp": 57509,
+   "cat": "people"
+  },
+  {
+   "n": "foot",
+   "a": [
+    "foot"
+   ],
+   "zh": "脚",
+   "kw": [
+    "足踝",
+    "踏",
+    "踝",
+    "踢",
+    "踩",
+    "踱"
+   ],
+   "cp": 57510,
+   "cat": "people"
+  },
+  {
+   "n": "ear",
+   "a": [
+    "ear"
+   ],
+   "zh": "耳朵",
+   "kw": [
+    "仔细听",
+    "听",
+    "耳"
+   ],
+   "cp": 57511,
+   "cat": "people"
+  },
+  {
+   "n": "ear_with_hearing_aid",
+   "a": [
+    "ear_with_hearing_aid"
+   ],
+   "zh": "戴助听器的耳朵",
+   "kw": [
+    "助听器",
+    "听力障碍",
+    "听障",
+    "失聪",
+    "无障碍",
+    "耳聋"
+   ],
+   "cp": 57512,
+   "cat": "people"
+  },
+  {
+   "n": "nose",
+   "a": [
+    "nose"
+   ],
+   "zh": "鼻子",
+   "kw": [
+    "嗅",
+    "气味",
+    "闻",
+    "鼻"
+   ],
+   "cp": 57513,
+   "cat": "people"
+  },
+  {
+   "n": "brain",
+   "a": [
+    "brain"
+   ],
+   "zh": "脑",
+   "kw": [
+    "大脑",
+    "头脑",
+    "智慧",
+    "智能",
+    "聪明"
+   ],
+   "cp": 57514,
+   "cat": "people"
+  },
+  {
+   "n": "anatomical_heart",
+   "a": [
+    "anatomical_heart"
+   ],
+   "zh": "心脏器官",
+   "kw": [
+    "中心",
+    "器官",
+    "心率",
+    "心脏",
+    "心脏病学",
+    "心跳"
+   ],
+   "cp": 57515,
+   "cat": "people"
+  },
+  {
+   "n": "lungs",
+   "a": [
+    "lungs"
+   ],
+   "zh": "肺",
+   "kw": [
+    "吸气",
+    "呼吸",
+    "呼吸作用",
+    "呼气",
+    "器官",
+    "肺部"
+   ],
+   "cp": 57516,
+   "cat": "people"
+  },
+  {
+   "n": "tooth",
+   "a": [
+    "tooth"
+   ],
+   "zh": "牙齿",
+   "kw": [
+    "牙医",
+    "牙科医生",
+    "珍珠色",
+    "白色"
+   ],
+   "cp": 57517,
+   "cat": "people"
+  },
+  {
+   "n": "bone",
+   "a": [
+    "bone"
+   ],
+   "zh": "骨头",
+   "kw": [
+    "叉骨",
+    "狗",
+    "骨骼"
+   ],
+   "cp": 57518,
+   "cat": "people"
+  },
+  {
+   "n": "eyes",
+   "a": [
+    "eyes"
+   ],
+   "zh": "双眼",
+   "kw": [
+    "看",
+    "眼睛",
+    "窥视",
+    "身体"
+   ],
+   "cp": 57519,
+   "cat": "people"
+  },
+  {
+   "n": "eye",
+   "a": [
+    "eye"
+   ],
+   "zh": "眼睛",
+   "kw": [
+    "单眼",
+    "看",
+    "眼",
+    "身体"
+   ],
+   "cp": 57520,
+   "cat": "people"
+  },
+  {
+   "n": "tongue",
+   "a": [
+    "tongue"
+   ],
+   "zh": "舌头",
+   "kw": [
+    "啧啧地喝",
+    "舌",
+    "舔",
+    "身体"
+   ],
+   "cp": 57521,
+   "cat": "people"
+  },
+  {
+   "n": "lips",
+   "a": [
+    "lips",
+    "mouth"
+   ],
+   "zh": "嘴",
+   "kw": [
+    "口",
+    "口红",
+    "吻",
+    "唇",
+    "唇膏"
+   ],
+   "cp": 57522,
+   "cat": "people"
+  },
+  {
+   "n": "biting_lip",
+   "a": [
+    "biting_lip"
+   ],
+   "zh": "咬住嘴唇",
+   "kw": [
+    "不舒服",
+    "口红",
+    "咬嘴唇",
+    "嘴唇",
+    "害怕",
+    "性感"
+   ],
+   "cp": 57523,
+   "cat": "people"
+  },
+  {
+   "n": "monkey_face",
+   "a": [
+    "monkey_face"
+   ],
+   "zh": "猴头",
+   "kw": [
+    "动物",
+    "猴",
+    "猴子"
+   ],
+   "cp": 57524,
+   "cat": "nature"
+  },
+  {
+   "n": "monkey",
+   "a": [
+    "monkey"
+   ],
+   "zh": "猴子",
+   "kw": [
+    "猴"
+   ],
+   "cp": 57525,
+   "cat": "nature"
+  },
+  {
+   "n": "gorilla",
+   "a": [
+    "gorilla"
+   ],
+   "zh": "大猩猩",
+   "kw": [
+    "动物"
+   ],
+   "cp": 57526,
+   "cat": "nature"
+  },
+  {
+   "n": "orangutan",
+   "a": [
+    "orangutan"
+   ],
+   "zh": "红毛猩猩",
+   "kw": [
+    "动物",
+    "猩猩",
+    "猴",
+    "猴子",
+    "猿"
+   ],
+   "cp": 57527,
+   "cat": "nature"
+  },
+  {
+   "n": "dog",
+   "a": [
+    "dog",
+    "dog_face"
+   ],
+   "zh": "狗脸",
+   "kw": [
+    "宠物",
+    "小狗",
+    "汪星人",
+    "狗",
+    "脸"
+   ],
+   "cp": 57528,
+   "cat": "nature"
+  },
+  {
+   "n": "dog2",
+   "a": [
+    "dog2",
+    "dog"
+   ],
+   "zh": "狗",
+   "kw": [
+    "动物",
+    "宠物",
+    "小狗",
+    "汪星人"
+   ],
+   "cp": 57529,
+   "cat": "nature"
+  },
+  {
+   "n": "guide_dog",
+   "a": [
+    "guide_dog"
+   ],
+   "zh": "导盲犬",
+   "kw": [
+    "指引",
+    "无障碍",
+    "盲",
+    "盲人"
+   ],
+   "cp": 57530,
+   "cat": "nature"
+  },
+  {
+   "n": "service_dog",
+   "a": [
+    "service_dog"
+   ],
+   "zh": "服务犬",
+   "kw": [
+    "工作犬",
+    "无障碍",
+    "服务",
+    "犬",
+    "狗",
+    "辅助"
+   ],
+   "cp": 57531,
+   "cat": "nature"
+  },
+  {
+   "n": "poodle",
+   "a": [
+    "poodle"
+   ],
+   "zh": "贵宾犬",
+   "kw": [
+    "卷毛狗",
+    "毛茸茸",
+    "狗"
+   ],
+   "cp": 57532,
+   "cat": "nature"
+  },
+  {
+   "n": "wolf",
+   "a": [
+    "wolf"
+   ],
+   "zh": "狼",
+   "kw": [
+    "头",
+    "狼头",
+    "脸"
+   ],
+   "cp": 57533,
+   "cat": "nature"
+  },
+  {
+   "n": "fox_face",
+   "a": [
+    "fox_face",
+    "fox"
+   ],
+   "zh": "狐狸",
+   "kw": [
+    "动物",
+    "头",
+    "狐狸的脸",
+    "脸"
+   ],
+   "cp": 57534,
+   "cat": "nature"
+  },
+  {
+   "n": "raccoon",
+   "a": [
+    "raccoon"
+   ],
+   "zh": "浣熊",
+   "kw": [
+    "动物",
+    "好奇",
+    "淘气",
+    "狡猾"
+   ],
+   "cp": 57535,
+   "cat": "nature"
+  },
+  {
+   "n": "cat",
+   "a": [
+    "cat",
+    "cat_face"
+   ],
+   "zh": "猫脸",
+   "kw": [
+    "宠物",
+    "猫",
+    "猫咪",
+    "脸"
+   ],
+   "cp": 57536,
+   "cat": "nature"
+  },
+  {
+   "n": "cat2",
+   "a": [
+    "cat2",
+    "cat"
+   ],
+   "zh": "猫",
+   "kw": [
+    "宠物",
+    "小猫"
+   ],
+   "cp": 57537,
+   "cat": "nature"
+  },
+  {
+   "n": "black_cat",
+   "a": [
+    "black_cat"
+   ],
+   "zh": "黑猫",
+   "kw": [
+    "万圣节",
+    "不吉利",
+    "动物",
+    "喵",
+    "喵星人",
+    "猫"
+   ],
+   "cp": 57538,
+   "cat": "nature"
+  },
+  {
+   "n": "lion",
+   "a": [
+    "lion"
+   ],
+   "zh": "狮子",
+   "kw": [
+    "狮子头",
+    "狮子座",
+    "脸",
+    "黄道十二宫"
+   ],
+   "cp": 57539,
+   "cat": "nature"
+  },
+  {
+   "n": "tiger",
+   "a": [
+    "tiger",
+    "tiger_face"
+   ],
+   "zh": "老虎头",
+   "kw": [
+    "森林之王",
+    "老虎",
+    "脸"
+   ],
+   "cp": 57540,
+   "cat": "nature"
+  },
+  {
+   "n": "tiger2",
+   "a": [
+    "tiger2",
+    "tiger"
+   ],
+   "zh": "老虎",
+   "kw": [
+    "动物园",
+    "虎"
+   ],
+   "cp": 57541,
+   "cat": "nature"
+  },
+  {
+   "n": "leopard",
+   "a": [
+    "leopard"
+   ],
+   "zh": "豹子",
+   "kw": [
+    "动物",
+    "猎豹",
+    "豹"
+   ],
+   "cp": 57542,
+   "cat": "nature"
+  },
+  {
+   "n": "horse",
+   "a": [
+    "horse",
+    "horse_face"
+   ],
+   "zh": "马头",
+   "kw": [
+    "盛装舞步",
+    "马"
+   ],
+   "cp": 57543,
+   "cat": "nature"
+  },
+  {
+   "n": "moose",
+   "a": [
+    "moose"
+   ],
+   "zh": "驼鹿",
+   "kw": [
+    "动物",
+    "哺乳动物",
+    "鹿角",
+    "麋鹿"
+   ],
+   "cp": 57544,
+   "cat": "nature"
+  },
+  {
+   "n": "donkey",
+   "a": [
+    "donkey"
+   ],
+   "zh": "驴",
+   "kw": [
+    "倔强",
+    "动物",
+    "哺乳动物",
+    "固执的",
+    "犟",
+    "驴子"
+   ],
+   "cp": 57545,
+   "cat": "nature"
+  },
+  {
+   "n": "racehorse",
+   "a": [
+    "racehorse",
+    "horse"
+   ],
+   "zh": "马",
+   "kw": [
+    "动物",
+    "比赛",
+    "赛马",
+    "骑马"
+   ],
+   "cp": 57546,
+   "cat": "nature"
+  },
+  {
+   "n": "unicorn",
+   "a": [
+    "unicorn"
+   ],
+   "zh": "独角兽",
+   "kw": [
+    "头",
+    "独角兽头",
+    "脸"
+   ],
+   "cp": 57547,
+   "cat": "nature"
+  },
+  {
+   "n": "zebra",
+   "a": [
+    "zebra"
+   ],
+   "zh": "斑马",
+   "kw": [
+    "条纹"
+   ],
+   "cp": 57548,
+   "cat": "nature"
+  },
+  {
+   "n": "deer",
+   "a": [
+    "deer"
+   ],
+   "zh": "鹿",
+   "kw": [
+    "动物"
+   ],
+   "cp": 57549,
+   "cat": "nature"
+  },
+  {
+   "n": "bison",
+   "a": [
+    "bison"
+   ],
+   "zh": "大野牛",
+   "kw": [
+    "动物",
+    "欧洲野牛",
+    "水牛",
+    "牛",
+    "牦牛",
+    "畜群"
+   ],
+   "cp": 57550,
+   "cat": "nature"
+  },
+  {
+   "n": "cow",
+   "a": [
+    "cow",
+    "cow_face"
+   ],
+   "zh": "奶牛头",
+   "kw": [
+    "乳牛",
+    "奶牛",
+    "母牛",
+    "牛头",
+    "脸"
+   ],
+   "cp": 57551,
+   "cat": "nature"
+  },
+  {
+   "n": "ox",
+   "a": [
+    "ox"
+   ],
+   "zh": "公牛",
+   "kw": [
+    "牛",
+    "金牛座",
+    "黄道十二宫"
+   ],
+   "cp": 57552,
+   "cat": "nature"
+  },
+  {
+   "n": "water_buffalo",
+   "a": [
+    "water_buffalo"
+   ],
+   "zh": "水牛",
+   "kw": [
+    "水牛"
+   ],
+   "cp": 57553,
+   "cat": "nature"
+  },
+  {
+   "n": "cow2",
+   "a": [
+    "cow2",
+    "cow"
+   ],
+   "zh": "奶牛",
+   "kw": [
+    "乳牛",
+    "牛"
+   ],
+   "cp": 57554,
+   "cat": "nature"
+  },
+  {
+   "n": "pig",
+   "a": [
+    "pig",
+    "pig_face"
+   ],
+   "zh": "猪头",
+   "kw": [
+    "八戒",
+    "猪",
+    "脸"
+   ],
+   "cp": 57555,
+   "cat": "nature"
+  },
+  {
+   "n": "pig2",
+   "a": [
+    "pig2",
+    "pig"
+   ],
+   "zh": "猪",
+   "kw": [
+    "培根",
+    "猪肉"
+   ],
+   "cp": 57556,
+   "cat": "nature"
+  },
+  {
+   "n": "boar",
+   "a": [
+    "boar"
+   ],
+   "zh": "野猪",
+   "kw": [
+    "动物",
+    "猪"
+   ],
+   "cp": 57557,
+   "cat": "nature"
+  },
+  {
+   "n": "pig_nose",
+   "a": [
+    "pig_nose"
+   ],
+   "zh": "猪鼻子",
+   "kw": [
+    "猪",
+    "脸",
+    "闻",
+    "鼻",
+    "鼻子"
+   ],
+   "cp": 57558,
+   "cat": "nature"
+  },
+  {
+   "n": "ram",
+   "a": [
+    "ram"
+   ],
+   "zh": "公羊",
+   "kw": [
+    "白羊座",
+    "羊",
+    "雄性",
+    "黄道十二宫"
+   ],
+   "cp": 57559,
+   "cat": "nature"
+  },
+  {
+   "n": "sheep",
+   "a": [
+    "sheep",
+    "ewe"
+   ],
+   "zh": "母羊",
+   "kw": [
+    "咩",
+    "毛茸茸",
+    "绵羊",
+    "羊",
+    "羊毛",
+    "雌性"
+   ],
+   "cp": 57560,
+   "cat": "nature"
+  },
+  {
+   "n": "goat",
+   "a": [
+    "goat"
+   ],
+   "zh": "山羊",
+   "kw": [
+    "摩羯座",
+    "黄道十二宫"
+   ],
+   "cp": 57561,
+   "cat": "nature"
+  },
+  {
+   "n": "dromedary_camel",
+   "a": [
+    "dromedary_camel",
+    "camel"
+   ],
+   "zh": "骆驼",
+   "kw": [
+    "单峰",
+    "单峰驼",
+    "沙漠",
+    "驼峰"
+   ],
+   "cp": 57562,
+   "cat": "nature"
+  },
+  {
+   "n": "camel",
+   "a": [
+    "camel",
+    "two_hump_camel"
+   ],
+   "zh": "双峰骆驼",
+   "kw": [
+    "双峰",
+    "沙漠",
+    "骆驼"
+   ],
+   "cp": 57563,
+   "cat": "nature"
+  },
+  {
+   "n": "llama",
+   "a": [
+    "llama"
+   ],
+   "zh": "美洲鸵",
+   "kw": [
+    "动物",
+    "原驼",
+    "小羊驼",
+    "无峰驼",
+    "羊毛",
+    "羊驼"
+   ],
+   "cp": 57564,
+   "cat": "nature"
+  },
+  {
+   "n": "giraffe",
+   "a": [
+    "giraffe"
+   ],
+   "zh": "长颈鹿",
+   "kw": [
+    "斑点"
+   ],
+   "cp": 57565,
+   "cat": "nature"
+  },
+  {
+   "n": "elephant",
+   "a": [
+    "elephant"
+   ],
+   "zh": "大象",
+   "kw": [
+    "动物",
+    "象"
+   ],
+   "cp": 57566,
+   "cat": "nature"
+  },
+  {
+   "n": "mammoth",
+   "a": [
+    "mammoth"
+   ],
+   "zh": "猛犸",
+   "kw": [
+    "动物",
+    "大型",
+    "有绒毛的",
+    "灭绝",
+    "猛犸象",
+    "长毛象"
+   ],
+   "cp": 57567,
+   "cat": "nature"
+  },
+  {
+   "n": "rhinoceros",
+   "a": [
+    "rhinoceros"
+   ],
+   "zh": "犀牛",
+   "kw": [
+    "动物"
+   ],
+   "cp": 57568,
+   "cat": "nature"
+  },
+  {
+   "n": "hippopotamus",
+   "a": [
+    "hippopotamus"
+   ],
+   "zh": "河马",
+   "kw": [
+    "动物"
+   ],
+   "cp": 57569,
+   "cat": "nature"
+  },
+  {
+   "n": "mouse",
+   "a": [
+    "mouse",
+    "mouse_face"
+   ],
+   "zh": "老鼠头",
+   "kw": [
+    "鼠"
+   ],
+   "cp": 57570,
+   "cat": "nature"
+  },
+  {
+   "n": "mouse2",
+   "a": [
+    "mouse2",
+    "mouse"
+   ],
+   "zh": "老鼠",
+   "kw": [
+    "耗子",
+    "鼠"
+   ],
+   "cp": 57571,
+   "cat": "nature"
+  },
+  {
+   "n": "rat",
+   "a": [
+    "rat"
+   ],
+   "zh": "耗子",
+   "kw": [
+    "鼠"
+   ],
+   "cp": 57572,
+   "cat": "nature"
+  },
+  {
+   "n": "hamster",
+   "a": [
+    "hamster"
+   ],
+   "zh": "仓鼠",
+   "kw": [
+    "仓鼠头",
+    "啮齿",
+    "头",
+    "宠物",
+    "脸"
+   ],
+   "cp": 57573,
+   "cat": "nature"
+  },
+  {
+   "n": "rabbit",
+   "a": [
+    "rabbit",
+    "rabbit_face"
+   ],
+   "zh": "兔子头",
+   "kw": [
+    "兔",
+    "兔宝宝",
+    "宠物"
+   ],
+   "cp": 57574,
+   "cat": "nature"
+  },
+  {
+   "n": "rabbit2",
+   "a": [
+    "rabbit2",
+    "rabbit"
+   ],
+   "zh": "兔子",
+   "kw": [
+    "兔",
+    "动物"
+   ],
+   "cp": 57575,
+   "cat": "nature"
+  },
+  {
+   "n": "chipmunk",
+   "a": [
+    "chipmunk"
+   ],
+   "zh": "松鼠",
+   "kw": [
+    "花栗鼠",
+    "金花鼠"
+   ],
+   "cp": 57576,
+   "cat": "nature"
+  },
+  {
+   "n": "beaver",
+   "a": [
+    "beaver"
+   ],
+   "zh": "海狸",
+   "kw": [
+    "动物",
+    "大板牙",
+    "母畜"
+   ],
+   "cp": 57577,
+   "cat": "nature"
+  },
+  {
+   "n": "hedgehog",
+   "a": [
+    "hedgehog"
+   ],
+   "zh": "刺猬",
+   "kw": [
+    "多刺"
+   ],
+   "cp": 57578,
+   "cat": "nature"
+  },
+  {
+   "n": "bat",
+   "a": [
+    "bat"
+   ],
+   "zh": "蝙蝠",
+   "kw": [
+    "吸血鬼"
+   ],
+   "cp": 57579,
+   "cat": "nature"
+  },
+  {
+   "n": "bear",
+   "a": [
+    "bear"
+   ],
+   "zh": "熊",
+   "kw": [
+    "低吼",
+    "头",
+    "灰熊",
+    "熊头",
+    "熊脸",
+    "脸"
+   ],
+   "cp": 57580,
+   "cat": "nature"
+  },
+  {
+   "n": "polar_bear",
+   "a": [
+    "polar_bear"
+   ],
+   "zh": "北极熊",
+   "kw": [
+    "北极",
+    "熊",
+    "白色"
+   ],
+   "cp": 57581,
+   "cat": "nature"
+  },
+  {
+   "n": "koala",
+   "a": [
+    "koala"
+   ],
+   "zh": "考拉",
+   "kw": [
+    "动物",
+    "有袋类动物",
+    "树袋熊",
+    "澳大利亚"
+   ],
+   "cp": 57582,
+   "cat": "nature"
+  },
+  {
+   "n": "panda_face",
+   "a": [
+    "panda_face",
+    "panda"
+   ],
+   "zh": "熊猫",
+   "kw": [
+    "头",
+    "熊猫脸",
+    "猫熊",
+    "猫熊脸",
+    "胖达",
+    "脸"
+   ],
+   "cp": 57583,
+   "cat": "nature"
+  },
+  {
+   "n": "sloth",
+   "a": [
+    "sloth"
+   ],
+   "zh": "树懒",
+   "kw": [
+    "慢",
+    "懒",
+    "爬树",
+    "迟缓"
+   ],
+   "cp": 57584,
+   "cat": "nature"
+  },
+  {
+   "n": "otter",
+   "a": [
+    "otter"
+   ],
+   "zh": "水獭",
+   "kw": [
+    "动物",
+    "好玩",
+    "捕鱼",
+    "爱开玩笑",
+    "獭",
+    "鼬"
+   ],
+   "cp": 57585,
+   "cat": "nature"
+  },
+  {
+   "n": "skunk",
+   "a": [
+    "skunk"
+   ],
+   "zh": "臭鼬",
+   "kw": [
+    "熏",
+    "臭",
+    "鼬"
+   ],
+   "cp": 57586,
+   "cat": "nature"
+  },
+  {
+   "n": "kangaroo",
+   "a": [
+    "kangaroo"
+   ],
+   "zh": "袋鼠",
+   "kw": [
+    "动物",
+    "小袋鼠",
+    "有袋目动物",
+    "有袋类动物",
+    "澳洲",
+    "跳"
+   ],
+   "cp": 57587,
+   "cat": "nature"
+  },
+  {
+   "n": "badger",
+   "a": [
+    "badger"
+   ],
+   "zh": "獾",
+   "kw": [
+    "动物",
+    "打扰",
+    "纠缠",
+    "蜜獾"
+   ],
+   "cp": 57588,
+   "cat": "nature"
+  },
+  {
+   "n": "feet",
+   "a": [
+    "feet",
+    "paw_prints"
+   ],
+   "zh": "爪印",
+   "kw": [
+    "爪",
+    "爪子",
+    "足迹"
+   ],
+   "cp": 57589,
+   "cat": "nature"
+  },
+  {
+   "n": "turkey",
+   "a": [
+    "turkey"
+   ],
+   "zh": "火鸡",
+   "kw": [
+    "感恩节"
+   ],
+   "cp": 57590,
+   "cat": "nature"
+  },
+  {
+   "n": "chicken",
+   "a": [
+    "chicken"
+   ],
+   "zh": "鸡",
+   "kw": [
+    "动物"
+   ],
+   "cp": 57591,
+   "cat": "nature"
+  },
+  {
+   "n": "rooster",
+   "a": [
+    "rooster"
+   ],
+   "zh": "公鸡",
+   "kw": [
+    "动物",
+    "鸡"
+   ],
+   "cp": 57592,
+   "cat": "nature"
+  },
+  {
+   "n": "hatching_chick",
+   "a": [
+    "hatching_chick"
+   ],
+   "zh": "小鸡破壳",
+   "kw": [
+    "小鸡",
+    "破壳"
+   ],
+   "cp": 57593,
+   "cat": "nature"
+  },
+  {
+   "n": "grapes",
+   "a": [
+    "grapes"
+   ],
+   "zh": "葡萄",
+   "kw": [
+    "水果"
+   ],
+   "cp": 57594,
+   "cat": "food"
+  },
+  {
+   "n": "melon",
+   "a": [
+    "melon"
+   ],
+   "zh": "甜瓜",
+   "kw": [
+    "哈密瓜",
+    "水果",
+    "蜜瓜",
+    "香瓜"
+   ],
+   "cp": 57595,
+   "cat": "food"
+  },
+  {
+   "n": "watermelon",
+   "a": [
+    "watermelon"
+   ],
+   "zh": "西瓜",
+   "kw": [
+    "水果"
+   ],
+   "cp": 57596,
+   "cat": "food"
+  },
+  {
+   "n": "orange",
+   "a": [
+    "orange",
+    "mandarin",
+    "tangerine"
+   ],
+   "zh": "橘子",
+   "kw": [
+    "柑桔",
+    "柑橘",
+    "桔子",
+    "水果",
+    "油桃",
+    "维他命 C"
+   ],
+   "cp": 57597,
+   "cat": "food"
+  },
+  {
+   "n": "lemon",
+   "a": [
+    "lemon"
+   ],
+   "zh": "柠檬",
+   "kw": [
+    "柑橘",
+    "水果",
+    "酸"
+   ],
+   "cp": 57598,
+   "cat": "food"
+  },
+  {
+   "n": "lime",
+   "a": [
+    "lime"
+   ],
+   "zh": "青柠",
+   "kw": [
+    "柑橘属",
+    "橘属",
+    "水果",
+    "清爽",
+    "热带",
+    "绿色"
+   ],
+   "cp": 57599,
+   "cat": "food"
+  },
+  {
+   "n": "banana",
+   "a": [
+    "banana"
+   ],
+   "zh": "香蕉",
+   "kw": [
+    "水果",
+    "钾"
+   ],
+   "cp": 57600,
+   "cat": "food"
+  },
+  {
+   "n": "pineapple",
+   "a": [
+    "pineapple"
+   ],
+   "zh": "菠萝",
+   "kw": [
+    "水果",
+    "热带"
+   ],
+   "cp": 57601,
+   "cat": "food"
+  },
+  {
+   "n": "mango",
+   "a": [
+    "mango"
+   ],
+   "zh": "芒果",
+   "kw": [
+    "水果",
+    "热带",
+    "食物"
+   ],
+   "cp": 57602,
+   "cat": "food"
+  },
+  {
+   "n": "apple",
+   "a": [
+    "apple",
+    "red_apple"
+   ],
+   "zh": "红苹果",
+   "kw": [
+    "健康",
+    "水果",
+    "熟",
+    "红",
+    "苹果",
+    "食物"
+   ],
+   "cp": 57603,
+   "cat": "food"
+  },
+  {
+   "n": "green_apple",
+   "a": [
+    "green_apple"
+   ],
+   "zh": "青苹果",
+   "kw": [
+    "水果",
+    "苹果",
+    "青"
+   ],
+   "cp": 57604,
+   "cat": "food"
+  },
+  {
+   "n": "pear",
+   "a": [
+    "pear"
+   ],
+   "zh": "梨",
+   "kw": [
+    "水果"
+   ],
+   "cp": 57605,
+   "cat": "food"
+  },
+  {
+   "n": "peach",
+   "a": [
+    "peach"
+   ],
+   "zh": "桃",
+   "kw": [
+    "水果"
+   ],
+   "cp": 57606,
+   "cat": "food"
+  },
+  {
+   "n": "cherries",
+   "a": [
+    "cherries"
+   ],
+   "zh": "樱桃",
+   "kw": [
+    "水果"
+   ],
+   "cp": 57607,
+   "cat": "food"
+  },
+  {
+   "n": "strawberry",
+   "a": [
+    "strawberry"
+   ],
+   "zh": "草莓",
+   "kw": [
+    "水果",
+    "浆果"
+   ],
+   "cp": 57608,
+   "cat": "food"
+  },
+  {
+   "n": "blueberries",
+   "a": [
+    "blueberries"
+   ],
+   "zh": "蓝莓",
+   "kw": [
+    "水果",
+    "浆果",
+    "越桔",
+    "食物"
+   ],
+   "cp": 57609,
+   "cat": "food"
+  },
+  {
+   "n": "kiwi_fruit",
+   "a": [
+    "kiwi_fruit"
+   ],
+   "zh": "猕猴桃",
+   "kw": [
+    "奇异果",
+    "水果",
+    "食物"
+   ],
+   "cp": 57610,
+   "cat": "food"
+  },
+  {
+   "n": "tomato",
+   "a": [
+    "tomato"
+   ],
+   "zh": "西红柿",
+   "kw": [
+    "水果",
+    "番茄",
+    "蔬菜"
+   ],
+   "cp": 57611,
+   "cat": "food"
+  },
+  {
+   "n": "olive",
+   "a": [
+    "olive"
+   ],
+   "zh": "橄榄",
+   "kw": [
+    "食物"
+   ],
+   "cp": 57612,
+   "cat": "food"
+  },
+  {
+   "n": "coconut",
+   "a": [
+    "coconut"
+   ],
+   "zh": "椰子",
+   "kw": [
+    "棕榈",
+    "菠萝椰子兰姆酒"
+   ],
+   "cp": 57613,
+   "cat": "food"
+  },
+  {
+   "n": "avocado",
+   "a": [
+    "avocado"
+   ],
+   "zh": "鳄梨",
+   "kw": [
+    "水果",
+    "牛油果",
+    "酪梨",
+    "食物",
+    "黄油果"
+   ],
+   "cp": 57614,
+   "cat": "food"
+  },
+  {
+   "n": "eggplant",
+   "a": [
+    "eggplant"
+   ],
+   "zh": "茄子",
+   "kw": [
+    "蔬菜"
+   ],
+   "cp": 57615,
+   "cat": "food"
+  },
+  {
+   "n": "potato",
+   "a": [
+    "potato"
+   ],
+   "zh": "土豆",
+   "kw": [
+    "蔬菜",
+    "食物",
+    "马铃薯"
+   ],
+   "cp": 57616,
+   "cat": "food"
+  },
+  {
+   "n": "carrot",
+   "a": [
+    "carrot"
+   ],
+   "zh": "胡萝卜",
+   "kw": [
+    "蔬菜",
+    "食物"
+   ],
+   "cp": 57617,
+   "cat": "food"
+  },
+  {
+   "n": "corn",
+   "a": [
+    "corn",
+    "ear_of_corn"
+   ],
+   "zh": "玉米",
+   "kw": [
+    "农作物",
+    "包谷",
+    "苞米"
+   ],
+   "cp": 57618,
+   "cat": "food"
+  },
+  {
+   "n": "hot_pepper",
+   "a": [
+    "hot_pepper"
+   ],
+   "zh": "红辣椒",
+   "kw": [
+    "辣",
+    "辣椒"
+   ],
+   "cp": 57619,
+   "cat": "food"
+  },
+  {
+   "n": "bell_pepper",
+   "a": [
+    "bell_pepper"
+   ],
+   "zh": "灯笼椒",
+   "kw": [
+    "蔬菜",
+    "辣椒",
+    "青椒",
+    "食物"
+   ],
+   "cp": 57620,
+   "cat": "food"
+  },
+  {
+   "n": "cucumber",
+   "a": [
+    "cucumber"
+   ],
+   "zh": "黄瓜",
+   "kw": [
+    "泡菜",
+    "腌菜",
+    "蔬菜",
+    "食物"
+   ],
+   "cp": 57621,
+   "cat": "food"
+  },
+  {
+   "n": "leafy_green",
+   "a": [
+    "leafy_green"
+   ],
+   "zh": "绿叶蔬菜",
+   "kw": [
+    "卷心菜",
+    "圆白菜",
+    "小白菜",
+    "甘蓝",
+    "生菜",
+    "羽衣甘蓝"
+   ],
+   "cp": 57622,
+   "cat": "food"
+  },
+  {
+   "n": "broccoli",
+   "a": [
+    "broccoli"
+   ],
+   "zh": "西兰花",
+   "kw": [
+    "甘蓝",
+    "野生卷心菜"
+   ],
+   "cp": 57623,
+   "cat": "food"
+  },
+  {
+   "n": "garlic",
+   "a": [
+    "garlic"
+   ],
+   "zh": "蒜",
+   "kw": [
+    "佐料",
+    "大蒜",
+    "蒜头",
+    "调味"
+   ],
+   "cp": 57624,
+   "cat": "food"
+  },
+  {
+   "n": "onion",
+   "a": [
+    "onion"
+   ],
+   "zh": "洋葱",
+   "kw": [
+    "佐料",
+    "调味"
+   ],
+   "cp": 57625,
+   "cat": "food"
+  },
+  {
+   "n": "peanuts",
+   "a": [
+    "peanuts"
+   ],
+   "zh": "花生",
+   "kw": [
+    "坚果",
+    "蔬菜",
+    "食物"
+   ],
+   "cp": 57626,
+   "cat": "food"
+  },
+  {
+   "n": "beans",
+   "a": [
+    "beans"
+   ],
+   "zh": "豆",
+   "kw": [
+    "肾",
+    "豆子",
+    "豆类",
+    "食物"
+   ],
+   "cp": 57627,
+   "cat": "food"
+  },
+  {
+   "n": "chestnut",
+   "a": [
+    "chestnut"
+   ],
+   "zh": "栗子",
+   "kw": [
+    "杏仁"
+   ],
+   "cp": 57628,
+   "cat": "food"
+  },
+  {
+   "n": "ginger_root",
+   "a": [
+    "ginger_root"
+   ],
+   "zh": "姜",
+   "kw": [
+    "健康",
+    "啤酒",
+    "天然",
+    "根",
+    "根汁啤酒",
+    "根茎"
+   ],
+   "cp": 57629,
+   "cat": "food"
+  },
+  {
+   "n": "pea_pod",
+   "a": [
+    "pea_pod"
+   ],
+   "zh": "豌豆荚",
+   "kw": [
+    "大豆",
+    "毛豆",
+    "素食者",
+    "荚",
+    "蔬菜",
+    "豆"
+   ],
+   "cp": 57630,
+   "cat": "food"
+  },
+  {
+   "n": "brown_mushroom",
+   "a": [
+    "brown_mushroom"
+   ],
+   "zh": "褐色蘑菇",
+   "kw": [
+    "披萨配料",
+    "拖沓",
+    "无聊",
+    "棕色",
+    "植物",
+    "素食"
+   ],
+   "cp": 57631,
+   "cat": "food"
+  },
+  {
+   "n": "bread",
+   "a": [
+    "bread"
+   ],
+   "zh": "面包",
+   "kw": [
+    "一条面包",
+    "全麦面包",
+    "小麦",
+    "淀粉",
+    "烤面包",
+    "谷类"
+   ],
+   "cp": 57632,
+   "cat": "food"
+  },
+  {
+   "n": "croissant",
+   "a": [
+    "croissant"
+   ],
+   "zh": "羊角面包",
+   "kw": [
+    "新月形面包",
+    "法式",
+    "牛角面包",
+    "面包",
+    "食物"
+   ],
+   "cp": 57633,
+   "cat": "food"
+  },
+  {
+   "n": "baguette_bread",
+   "a": [
+    "baguette_bread"
+   ],
+   "zh": "法式长棍面包",
+   "kw": [
+    "法式",
+    "法式长条面包",
+    "面包",
+    "食物"
+   ],
+   "cp": 57634,
+   "cat": "food"
+  },
+  {
+   "n": "flatbread",
+   "a": [
+    "flatbread"
+   ],
+   "zh": "扁面包",
+   "kw": [
+    "圆盘状烤饼",
+    "玉米饼",
+    "皮塔饼",
+    "薄脆饼",
+    "面包",
+    "面饼"
+   ],
+   "cp": 57635,
+   "cat": "food"
+  },
+  {
+   "n": "pretzel",
+   "a": [
+    "pretzel"
+   ],
+   "zh": "椒盐卷饼",
+   "kw": [
+    "弯曲",
+    "扭曲食品",
+    "盘绕",
+    "缠绕",
+    "错综复杂"
+   ],
+   "cp": 57636,
+   "cat": "food"
+  },
+  {
+   "n": "bagel",
+   "a": [
+    "bagel"
+   ],
+   "zh": "面包圈",
+   "kw": [
+    "奶酪酱",
+    "早餐",
+    "烘烤食品",
+    "硬面包圈",
+    "贝果",
+    "面包"
+   ],
+   "cp": 57637,
+   "cat": "food"
+  },
+  {
+   "n": "pancakes",
+   "a": [
+    "pancakes"
+   ],
+   "zh": "烙饼",
+   "kw": [
+    "煎饼",
+    "薄煎饼",
+    "薄饼",
+    "食物"
+   ],
+   "cp": 57638,
+   "cat": "food"
+  },
+  {
+   "n": "waffle",
+   "a": [
+    "waffle"
+   ],
+   "zh": "华夫饼",
+   "kw": [
+    "松饼",
+    "格子饼",
+    "点心",
+    "烤",
+    "甜点",
+    "窝夫饼"
+   ],
+   "cp": 57639,
+   "cat": "food"
+  },
+  {
+   "n": "cheese",
+   "a": [
+    "cheese",
+    "cheese_wedge"
+   ],
+   "zh": "芝士",
+   "kw": [
+    "奶酪",
+    "起司"
+   ],
+   "cp": 57640,
+   "cat": "food"
+  },
+  {
+   "n": "meat_on_bone",
+   "a": [
+    "meat_on_bone"
+   ],
+   "zh": "排骨",
+   "kw": [
+    "带骨的肉",
+    "肉",
+    "骨"
+   ],
+   "cp": 57641,
+   "cat": "food"
+  },
+  {
+   "n": "poultry_leg",
+   "a": [
+    "poultry_leg"
+   ],
+   "zh": "家禽的腿",
+   "kw": [
+    "家禽",
+    "火鸡",
+    "饿",
+    "骨",
+    "鸡肉",
+    "鸡腿"
+   ],
+   "cp": 57642,
+   "cat": "food"
+  },
+  {
+   "n": "cut_of_meat",
+   "a": [
+    "cut_of_meat"
+   ],
+   "zh": "肉块",
+   "kw": [
+    "排骨",
+    "牛排",
+    "猪排",
+    "红肉",
+    "羊排",
+    "肉"
+   ],
+   "cp": 57643,
+   "cat": "food"
+  },
+  {
+   "n": "bacon",
+   "a": [
+    "bacon"
+   ],
+   "zh": "培根",
+   "kw": [
+    "烟肉",
+    "熏肉",
+    "肉",
+    "背肯",
+    "食物"
+   ],
+   "cp": 57644,
+   "cat": "food"
+  },
+  {
+   "n": "hamburger",
+   "a": [
+    "hamburger"
+   ],
+   "zh": "汉堡",
+   "kw": [
+    "吃",
+    "汉堡包",
+    "速食",
+    "食物",
+    "饿"
+   ],
+   "cp": 57645,
+   "cat": "food"
+  },
+  {
+   "n": "fries",
+   "a": [
+    "fries",
+    "french_fries"
+   ],
+   "zh": "薯条",
+   "kw": [
+    "快餐",
+    "油炸",
+    "食物"
+   ],
+   "cp": 57646,
+   "cat": "food"
+  },
+  {
+   "n": "pizza",
+   "a": [
+    "pizza"
+   ],
+   "zh": "披萨",
+   "kw": [
+    "一片比萨",
+    "比萨",
+    "比萨饼",
+    "起司",
+    "辣味香肠",
+    "食物"
+   ],
+   "cp": 57647,
+   "cat": "food"
+  },
+  {
+   "n": "hotdog",
+   "a": [
+    "hotdog",
+    "hot_dog"
+   ],
+   "zh": "热狗",
+   "kw": [
+    "香肠"
+   ],
+   "cp": 57648,
+   "cat": "food"
+  },
+  {
+   "n": "sandwich",
+   "a": [
+    "sandwich"
+   ],
+   "zh": "三明治",
+   "kw": [
+    "面包"
+   ],
+   "cp": 57649,
+   "cat": "food"
+  },
+  {
+   "n": "taco",
+   "a": [
+    "taco"
+   ],
+   "zh": "墨西哥卷饼",
+   "kw": [
+    "卷饼",
+    "墨西哥",
+    "墨西哥玉米卷",
+    "玉米卷饼"
+   ],
+   "cp": 57650,
+   "cat": "food"
+  },
+  {
+   "n": "burrito",
+   "a": [
+    "burrito"
+   ],
+   "zh": "墨西哥玉米煎饼",
+   "kw": [
+    "卷饼",
+    "墨西哥",
+    "墨西哥卷饼",
+    "玉米煎饼"
+   ],
+   "cp": 57651,
+   "cat": "food"
+  },
+  {
+   "n": "tamale",
+   "a": [
+    "tamale"
+   ],
+   "zh": "墨西哥粽子",
+   "kw": [
+    "墨西哥",
+    "墨西哥饼",
+    "巴西粽",
+    "粽子",
+    "食物"
+   ],
+   "cp": 57652,
+   "cat": "food"
+  },
+  {
+   "n": "stuffed_flatbread",
+   "a": [
+    "stuffed_flatbread"
+   ],
+   "zh": "夹心饼",
+   "kw": [
+    "大饼",
+    "夹心",
+    "沙拉三明治",
+    "炸豆丸子",
+    "烤肉串",
+    "肉夹馍"
+   ],
+   "cp": 57653,
+   "cat": "food"
+  },
+  {
+   "n": "earth_africa",
+   "a": [
+    "earth_africa",
+    "globe_showing_europe_africa"
+   ],
+   "zh": "地球上的欧洲非洲",
+   "kw": [
+    "世界",
+    "地球",
+    "欧洲",
+    "非洲"
+   ],
+   "cp": 57654,
+   "cat": "travel"
+  },
+  {
+   "n": "earth_americas",
+   "a": [
+    "earth_americas",
+    "globe_showing_americas"
+   ],
+   "zh": "地球上的美洲",
+   "kw": [
+    "世界",
+    "全球",
+    "地球",
+    "美洲"
+   ],
+   "cp": 57655,
+   "cat": "travel"
+  },
+  {
+   "n": "earth_asia",
+   "a": [
+    "earth_asia",
+    "globe_showing_asia_australia"
+   ],
+   "zh": "地球上的亚洲澳洲",
+   "kw": [
+    "世界",
+    "亚洲",
+    "亚澳",
+    "全球",
+    "地球",
+    "地球上的亚洲"
+   ],
+   "cp": 57656,
+   "cat": "travel"
+  },
+  {
+   "n": "globe_with_meridians",
+   "a": [
+    "globe_with_meridians"
+   ],
+   "zh": "带经纬线的地球",
+   "kw": [
+    "世界",
+    "全球",
+    "地球",
+    "子午线",
+    "经纬",
+    "经线"
+   ],
+   "cp": 57657,
+   "cat": "travel"
+  },
+  {
+   "n": "world_map",
+   "a": [
+    "world_map"
+   ],
+   "zh": "世界地图",
+   "kw": [
+    "世界",
+    "地图"
+   ],
+   "cp": 57658,
+   "cat": "travel"
+  },
+  {
+   "n": "japan",
+   "a": [
+    "japan",
+    "map_of_japan"
+   ],
+   "zh": "日本地图",
+   "kw": [
+    "地图",
+    "日本"
+   ],
+   "cp": 57659,
+   "cat": "travel"
+  },
+  {
+   "n": "compass",
+   "a": [
+    "compass"
+   ],
+   "zh": "指南针",
+   "kw": [
+    "定向",
+    "导航",
+    "方向",
+    "磁性",
+    "罗盘"
+   ],
+   "cp": 57660,
+   "cat": "travel"
+  },
+  {
+   "n": "mountain_snow",
+   "a": [
+    "mountain_snow",
+    "snow_capped_mountain"
+   ],
+   "zh": "雪山",
+   "kw": [
+    "冷",
+    "山",
+    "泠",
+    "雪",
+    "雪封山头",
+    "雪顶"
+   ],
+   "cp": 57661,
+   "cat": "travel"
+  },
+  {
+   "n": "mountain",
+   "a": [
+    "mountain"
+   ],
+   "zh": "山",
+   "kw": [
+    "峰"
+   ],
+   "cp": 57662,
+   "cat": "travel"
+  },
+  {
+   "n": "volcano",
+   "a": [
+    "volcano"
+   ],
+   "zh": "火山",
+   "kw": [
+    "喷发",
+    "大自然",
+    "山",
+    "爆发"
+   ],
+   "cp": 57663,
+   "cat": "travel"
+  },
+  {
+   "n": "mount_fuji",
+   "a": [
+    "mount_fuji"
+   ],
+   "zh": "富士山",
+   "kw": [
+    "大自然",
+    "山"
+   ],
+   "cp": 57664,
+   "cat": "travel"
+  },
+  {
+   "n": "camping",
+   "a": [
+    "camping"
+   ],
+   "zh": "露营",
+   "kw": [
+    "帐篷"
+   ],
+   "cp": 57665,
+   "cat": "travel"
+  },
+  {
+   "n": "beach_umbrella",
+   "a": [
+    "beach_umbrella",
+    "beach_with_umbrella"
+   ],
+   "zh": "沙滩伞",
+   "kw": [
+    "伞",
+    "有伞的海滩",
+    "沙滩",
+    "海滩",
+    "阳伞"
+   ],
+   "cp": 57666,
+   "cat": "travel"
+  },
+  {
+   "n": "desert",
+   "a": [
+    "desert"
+   ],
+   "zh": "沙漠",
+   "kw": [
+    "荒漠"
+   ],
+   "cp": 57667,
+   "cat": "travel"
+  },
+  {
+   "n": "desert_island",
+   "a": [
+    "desert_island"
+   ],
+   "zh": "无人荒岛",
+   "kw": [
+    "岛",
+    "沙滩孤岛",
+    "沙漠",
+    "荒岛"
+   ],
+   "cp": 57668,
+   "cat": "travel"
+  },
+  {
+   "n": "national_park",
+   "a": [
+    "national_park"
+   ],
+   "zh": "国家公园",
+   "kw": [
+    "公园",
+    "自然",
+    "风景"
+   ],
+   "cp": 57669,
+   "cat": "travel"
+  },
+  {
+   "n": "stadium",
+   "a": [
+    "stadium"
+   ],
+   "zh": "体育馆",
+   "kw": [
+    "竞技场"
+   ],
+   "cp": 57670,
+   "cat": "travel"
+  },
+  {
+   "n": "classical_building",
+   "a": [
+    "classical_building"
+   ],
+   "zh": "古典建筑",
+   "kw": [
+    "古典",
+    "古建筑"
+   ],
+   "cp": 57671,
+   "cat": "travel"
+  },
+  {
+   "n": "building_construction",
+   "a": [
+    "building_construction"
+   ],
+   "zh": "建筑施工",
+   "kw": [
+    "兴建",
+    "施工"
+   ],
+   "cp": 57672,
+   "cat": "travel"
+  },
+  {
+   "n": "bricks",
+   "a": [
+    "bricks",
+    "brick"
+   ],
+   "zh": "砖",
+   "kw": [
+    "墙",
+    "砂浆",
+    "黏土"
+   ],
+   "cp": 57673,
+   "cat": "travel"
+  },
+  {
+   "n": "rock",
+   "a": [
+    "rock"
+   ],
+   "zh": "岩石",
+   "kw": [
+    "固体",
+    "坚不可摧",
+    "巨石",
+    "石头"
+   ],
+   "cp": 57674,
+   "cat": "travel"
+  },
+  {
+   "n": "wood",
+   "a": [
+    "wood"
+   ],
+   "zh": "木头",
+   "kw": [
+    "原木",
+    "圆木",
+    "木材",
+    "木桩"
+   ],
+   "cp": 57675,
+   "cat": "travel"
+  },
+  {
+   "n": "hut",
+   "a": [
+    "hut"
+   ],
+   "zh": "小屋",
+   "kw": [
+    "圆屋",
+    "家",
+    "茅屋",
+    "蒙古包"
+   ],
+   "cp": 57676,
+   "cat": "travel"
+  },
+  {
+   "n": "houses",
+   "a": [
+    "houses"
+   ],
+   "zh": "房屋建筑",
+   "kw": [
+    "住宅",
+    "小区",
+    "房",
+    "房子"
+   ],
+   "cp": 57677,
+   "cat": "travel"
+  },
+  {
+   "n": "derelict_house",
+   "a": [
+    "derelict_house"
+   ],
+   "zh": "废墟",
+   "kw": [
+    "废屋",
+    "荒宅",
+    "荒废",
+    "鬼屋"
+   ],
+   "cp": 57678,
+   "cat": "travel"
+  },
+  {
+   "n": "house",
+   "a": [
+    "house"
+   ],
+   "zh": "房子",
+   "kw": [
+    "乡村家园",
+    "住家",
+    "家",
+    "建筑",
+    "心之所在",
+    "房屋"
+   ],
+   "cp": 57679,
+   "cat": "travel"
+  },
+  {
+   "n": "house_with_garden",
+   "a": [
+    "house_with_garden"
+   ],
+   "zh": "别墅",
+   "kw": [
+    "乡村家园",
+    "住家",
+    "家",
+    "庭院",
+    "庭院居家",
+    "建筑"
+   ],
+   "cp": 57680,
+   "cat": "travel"
+  },
+  {
+   "n": "office",
+   "a": [
+    "office",
+    "office_building"
+   ],
+   "zh": "办公楼",
+   "kw": [
+    "写字楼",
+    "建筑"
+   ],
+   "cp": 57681,
+   "cat": "travel"
+  },
+  {
+   "n": "post_office",
+   "a": [
+    "post_office",
+    "japanese_post_office"
+   ],
+   "zh": "日本邮局",
+   "kw": [
+    "建筑",
+    "日本",
+    "邮便",
+    "邮局"
+   ],
+   "cp": 57682,
+   "cat": "travel"
+  },
+  {
+   "n": "european_post_office",
+   "a": [
+    "european_post_office",
+    "post_office"
+   ],
+   "zh": "邮局",
+   "kw": [
+    "建筑",
+    "欧洲",
+    "欧洲邮局"
+   ],
+   "cp": 57683,
+   "cat": "travel"
+  },
+  {
+   "n": "hospital",
+   "a": [
+    "hospital"
+   ],
+   "zh": "医院",
+   "kw": [
+    "医生",
+    "医药",
+    "建筑",
+    "看病"
+   ],
+   "cp": 57684,
+   "cat": "travel"
+  },
+  {
+   "n": "bank",
+   "a": [
+    "bank"
+   ],
+   "zh": "银行",
+   "kw": [
+    "建筑"
+   ],
+   "cp": 57685,
+   "cat": "travel"
+  },
+  {
+   "n": "hotel",
+   "a": [
+    "hotel"
+   ],
+   "zh": "酒店",
+   "kw": [
+    "建筑",
+    "旅馆"
+   ],
+   "cp": 57686,
+   "cat": "travel"
+  },
+  {
+   "n": "love_hotel",
+   "a": [
+    "love_hotel"
+   ],
+   "zh": "情人酒店",
+   "kw": [
+    "建筑",
+    "情人旅馆",
+    "情侣酒店",
+    "旅馆"
+   ],
+   "cp": 57687,
+   "cat": "travel"
+  },
+  {
+   "n": "convenience_store",
+   "a": [
+    "convenience_store"
+   ],
+   "zh": "便利店",
+   "kw": [
+    "24 小时",
+    "商店",
+    "建筑"
+   ],
+   "cp": 57688,
+   "cat": "travel"
+  },
+  {
+   "n": "school",
+   "a": [
+    "school"
+   ],
+   "zh": "学校",
+   "kw": [
+    "建筑",
+    "教学楼"
+   ],
+   "cp": 57689,
+   "cat": "travel"
+  },
+  {
+   "n": "department_store",
+   "a": [
+    "department_store"
+   ],
+   "zh": "商场",
+   "kw": [
+    "建筑",
+    "百货公司",
+    "百货商城",
+    "百货商店"
+   ],
+   "cp": 57690,
+   "cat": "travel"
+  },
+  {
+   "n": "factory",
+   "a": [
+    "factory"
+   ],
+   "zh": "工厂",
+   "kw": [
+    "建筑"
+   ],
+   "cp": 57691,
+   "cat": "travel"
+  },
+  {
+   "n": "japanese_castle",
+   "a": [
+    "japanese_castle"
+   ],
+   "zh": "日本城堡",
+   "kw": [
+    "城堡",
+    "建筑",
+    "日本"
+   ],
+   "cp": 57692,
+   "cat": "travel"
+  },
+  {
+   "n": "european_castle",
+   "a": [
+    "european_castle",
+    "castle"
+   ],
+   "zh": "欧洲城堡",
+   "kw": [
+    "城堡",
+    "建筑",
+    "欧洲"
+   ],
+   "cp": 57693,
+   "cat": "travel"
+  },
+  {
+   "n": "wedding",
+   "a": [
+    "wedding"
+   ],
+   "zh": "婚礼",
+   "kw": [
+    "教堂",
+    "浪漫",
+    "结婚"
+   ],
+   "cp": 57694,
+   "cat": "travel"
+  },
+  {
+   "n": "tokyo_tower",
+   "a": [
+    "tokyo_tower"
+   ],
+   "zh": "东京塔",
+   "kw": [
+    "东京",
+    "塔"
+   ],
+   "cp": 57695,
+   "cat": "travel"
+  },
+  {
+   "n": "statue_of_liberty",
+   "a": [
+    "statue_of_liberty"
+   ],
+   "zh": "自由女神像",
+   "kw": [
+    "塑像",
+    "纽约",
+    "自由",
+    "雕塑"
+   ],
+   "cp": 57696,
+   "cat": "travel"
+  },
+  {
+   "n": "church",
+   "a": [
+    "church"
+   ],
+   "zh": "教堂",
+   "kw": [
+    "基督",
+    "基督教",
+    "宗教",
+    "小教堂"
+   ],
+   "cp": 57697,
+   "cat": "travel"
+  },
+  {
+   "n": "mosque",
+   "a": [
+    "mosque"
+   ],
+   "zh": "清真寺",
+   "kw": [
+    "伊斯兰",
+    "宗教",
+    "穆斯林"
+   ],
+   "cp": 57698,
+   "cat": "travel"
+  },
+  {
+   "n": "jack_o_lantern",
+   "a": [
+    "jack_o_lantern"
+   ],
+   "zh": "南瓜灯",
+   "kw": [
+    "万圣节",
+    "南瓜",
+    "庆祝",
+    "灯",
+    "灯笼"
+   ],
+   "cp": 57699,
+   "cat": "activities"
+  },
+  {
+   "n": "christmas_tree",
+   "a": [
+    "christmas_tree"
+   ],
+   "zh": "圣诞树",
+   "kw": [
+    "圣诞",
+    "庆祝",
+    "树",
+    "装饰"
+   ],
+   "cp": 57700,
+   "cat": "activities"
+  },
+  {
+   "n": "fireworks",
+   "a": [
+    "fireworks"
+   ],
+   "zh": "焰火",
+   "kw": [
+    "庆典",
+    "庆祝",
+    "炮竹",
+    "烟花",
+    "爆竹"
+   ],
+   "cp": 57701,
+   "cat": "activities"
+  },
+  {
+   "n": "sparkler",
+   "a": [
+    "sparkler"
+   ],
+   "zh": "烟花",
+   "kw": [
+    "庆祝",
+    "火花",
+    "烟火",
+    "焰火"
+   ],
+   "cp": 57702,
+   "cat": "activities"
+  },
+  {
+   "n": "firecracker",
+   "a": [
+    "firecracker"
+   ],
+   "zh": "爆竹",
+   "kw": [
+    "光亮",
+    "火花",
+    "炸药",
+    "烟火",
+    "烟花",
+    "爆炸"
+   ],
+   "cp": 57703,
+   "cat": "activities"
+  },
+  {
+   "n": "sparkles",
+   "a": [
+    "sparkles"
+   ],
+   "zh": "闪亮",
+   "kw": [
+    "星星",
+    "火花",
+    "闪光",
+    "闪耀"
+   ],
+   "cp": 57704,
+   "cat": "activities"
+  },
+  {
+   "n": "balloon",
+   "a": [
+    "balloon"
+   ],
+   "zh": "气球",
+   "kw": [
+    "庆祝",
+    "生日",
+    "节日"
+   ],
+   "cp": 57705,
+   "cat": "activities"
+  },
+  {
+   "n": "tada",
+   "a": [
+    "tada",
+    "party_popper"
+   ],
+   "zh": "拉炮彩带",
+   "kw": [
+    "兴奋",
+    "呱呱叫",
+    "庆祝",
+    "彩带",
+    "拉炮",
+    "派对"
+   ],
+   "cp": 57706,
+   "cat": "activities"
+  },
+  {
+   "n": "confetti_ball",
+   "a": [
+    "confetti_ball"
+   ],
+   "zh": "五彩纸屑球",
+   "kw": [
+    "五彩纸屑",
+    "庆祝",
+    "彩色纸屑",
+    "球",
+    "舞会"
+   ],
+   "cp": 57707,
+   "cat": "activities"
+  },
+  {
+   "n": "tanabata_tree",
+   "a": [
+    "tanabata_tree"
+   ],
+   "zh": "七夕树",
+   "kw": [
+    "七夕",
+    "庆祝",
+    "日本",
+    "条幅",
+    "树"
+   ],
+   "cp": 57708,
+   "cat": "activities"
+  },
+  {
+   "n": "bamboo",
+   "a": [
+    "bamboo",
+    "pine_decoration"
+   ],
+   "zh": "门松",
+   "kw": [
+    "庆祝",
+    "日本",
+    "松树",
+    "盆栽",
+    "竹"
+   ],
+   "cp": 57709,
+   "cat": "activities"
+  },
+  {
+   "n": "dolls",
+   "a": [
+    "dolls",
+    "japanese_dolls"
+   ],
+   "zh": "日本人形",
+   "kw": [
+    "人偶",
+    "娃娃",
+    "庆祝",
+    "日本",
+    "日本人偶",
+    "节日"
+   ],
+   "cp": 57710,
+   "cat": "activities"
+  },
+  {
+   "n": "flags",
+   "a": [
+    "flags",
+    "carp_streamer"
+   ],
+   "zh": "鲤鱼旗",
+   "kw": [
+    "庆祝",
+    "日本",
+    "男孩节",
+    "长旗"
+   ],
+   "cp": 57711,
+   "cat": "activities"
+  },
+  {
+   "n": "wind_chime",
+   "a": [
+    "wind_chime"
+   ],
+   "zh": "风铃",
+   "kw": [
+    "庆祝",
+    "铃铛",
+    "风"
+   ],
+   "cp": 57712,
+   "cat": "activities"
+  },
+  {
+   "n": "rice_scene",
+   "a": [
+    "rice_scene",
+    "moon_viewing_ceremony"
+   ],
+   "zh": "赏月",
+   "kw": [
+    "中秋",
+    "佳节",
+    "庆祝",
+    "月亮",
+    "祭月"
+   ],
+   "cp": 57713,
+   "cat": "activities"
+  },
+  {
+   "n": "red_envelope",
+   "a": [
+    "red_envelope"
+   ],
+   "zh": "红包",
+   "kw": [
+    "利事",
+    "利是",
+    "好运",
+    "礼物",
+    "红信封",
+    "运气"
+   ],
+   "cp": 57714,
+   "cat": "activities"
+  },
+  {
+   "n": "ribbon",
+   "a": [
+    "ribbon"
+   ],
+   "zh": "蝴蝶结",
+   "kw": [
+    "丝带",
+    "庆祝",
+    "缎带"
+   ],
+   "cp": 57715,
+   "cat": "activities"
+  },
+  {
+   "n": "gift",
+   "a": [
+    "gift",
+    "wrapped_gift"
+   ],
+   "zh": "礼物",
+   "kw": [
+    "包礼物",
+    "包装",
+    "圣诞",
+    "庆祝",
+    "惊喜",
+    "生日礼物"
+   ],
+   "cp": 57716,
+   "cat": "activities"
+  },
+  {
+   "n": "reminder_ribbon",
+   "a": [
+    "reminder_ribbon"
+   ],
+   "zh": "提示丝带",
+   "kw": [
+    "丝带",
+    "庆典",
+    "庆祝",
+    "暗示",
+    "飘带"
+   ],
+   "cp": 57717,
+   "cat": "activities"
+  },
+  {
+   "n": "tickets",
+   "a": [
+    "tickets",
+    "admission_tickets"
+   ],
+   "zh": "入场券",
+   "kw": [
+    "票",
+    "门票"
+   ],
+   "cp": 57718,
+   "cat": "activities"
+  },
+  {
+   "n": "ticket",
+   "a": [
+    "ticket"
+   ],
+   "zh": "票",
+   "kw": [
+    "入场券",
+    "电影票",
+    "票根",
+    "车票",
+    "门票"
+   ],
+   "cp": 57719,
+   "cat": "activities"
+  },
+  {
+   "n": "medal_military",
+   "a": [
+    "medal_military",
+    "military_medal"
+   ],
+   "zh": "军功章",
+   "kw": [
+    "军队",
+    "勋章",
+    "奖章"
+   ],
+   "cp": 57720,
+   "cat": "activities"
+  },
+  {
+   "n": "trophy",
+   "a": [
+    "trophy"
+   ],
+   "zh": "奖杯",
+   "kw": [
+    "冠军",
+    "奖励",
+    "奖品",
+    "奖赏",
+    "胜利",
+    "获胜"
+   ],
+   "cp": 57721,
+   "cat": "activities"
+  },
+  {
+   "n": "medal_sports",
+   "a": [
+    "medal_sports",
+    "sports_medal"
+   ],
+   "zh": "奖牌",
+   "kw": [
+    "获胜",
+    "运动会奖牌",
+    "运动员",
+    "金牌"
+   ],
+   "cp": 57722,
+   "cat": "activities"
+  },
+  {
+   "n": "1st_place_medal",
+   "a": [
+    "1st_place_medal"
+   ],
+   "zh": "金牌",
+   "kw": [
+    "奖牌",
+    "第一",
+    "第一名奖牌"
+   ],
+   "cp": 57723,
+   "cat": "activities"
+  },
+  {
+   "n": "2nd_place_medal",
+   "a": [
+    "2nd_place_medal"
+   ],
+   "zh": "银牌",
+   "kw": [
+    "亚军",
+    "奖牌",
+    "第二",
+    "第二名奖牌"
+   ],
+   "cp": 57724,
+   "cat": "activities"
+  },
+  {
+   "n": "3rd_place_medal",
+   "a": [
+    "3rd_place_medal"
+   ],
+   "zh": "铜牌",
+   "kw": [
+    "奖牌",
+    "季军",
+    "第三",
+    "第三名奖牌"
+   ],
+   "cp": 57725,
+   "cat": "activities"
+  },
+  {
+   "n": "soccer",
+   "a": [
+    "soccer",
+    "soccer_ball"
+   ],
+   "zh": "足球",
+   "kw": [
+    "大罗",
+    "梅西",
+    "球",
+    "球赛",
+    "罗纳尔多",
+    "胖罗"
+   ],
+   "cp": 57726,
+   "cat": "activities"
+  },
+  {
+   "n": "baseball",
+   "a": [
+    "baseball"
+   ],
+   "zh": "棒球",
+   "kw": [
+    "球",
+    "运动"
+   ],
+   "cp": 57727,
+   "cat": "activities"
+  },
+  {
+   "n": "softball",
+   "a": [
+    "softball"
+   ],
+   "zh": "垒球",
+   "kw": [
+    "手套",
+    "球",
+    "腋下",
+    "运动"
+   ],
+   "cp": 57728,
+   "cat": "activities"
+  },
+  {
+   "n": "eyeglasses",
+   "a": [
+    "eyeglasses",
+    "glasses"
+   ],
+   "zh": "眼镜",
+   "kw": [
+    "服饰",
+    "眼睛"
+   ],
+   "cp": 57729,
+   "cat": "objects"
+  },
+  {
+   "n": "dark_sunglasses",
+   "a": [
+    "dark_sunglasses",
+    "sunglasses"
+   ],
+   "zh": "墨镜",
+   "kw": [
+    "太阳镜"
+   ],
+   "cp": 57730,
+   "cat": "objects"
+  },
+  {
+   "n": "goggles",
+   "a": [
+    "goggles"
+   ],
+   "zh": "护目镜",
+   "kw": [
+    "护目",
+    "护眼",
+    "水肺",
+    "游泳",
+    "潜水",
+    "焊接"
+   ],
+   "cp": 57731,
+   "cat": "objects"
+  },
+  {
+   "n": "lab_coat",
+   "a": [
+    "lab_coat"
+   ],
+   "zh": "白大褂",
+   "kw": [
+    "医生",
+    "外衣",
+    "实验",
+    "实验人员",
+    "实验室白大褂",
+    "实验服"
+   ],
+   "cp": 57732,
+   "cat": "objects"
+  },
+  {
+   "n": "safety_vest",
+   "a": [
+    "safety_vest"
+   ],
+   "zh": "救生衣",
+   "kw": [
+    "安全",
+    "紧急",
+    "背心",
+    "逃生"
+   ],
+   "cp": 57733,
+   "cat": "objects"
+  },
+  {
+   "n": "necktie",
+   "a": [
+    "necktie"
+   ],
+   "zh": "领带",
+   "kw": [
+    "工作",
+    "正式",
+    "衬衫领带"
+   ],
+   "cp": 57734,
+   "cat": "objects"
+  },
+  {
+   "n": "shirt",
+   "a": [
+    "shirt",
+    "tshirt",
+    "t_shirt"
+   ],
+   "zh": "T恤",
+   "kw": [
+    "休闲服装",
+    "恤衫"
+   ],
+   "cp": 57735,
+   "cat": "objects"
+  },
+  {
+   "n": "jeans",
+   "a": [
+    "jeans"
+   ],
+   "zh": "牛仔裤",
+   "kw": [
+    "休闲",
+    "周末",
+    "蓝色",
+    "裤子"
+   ],
+   "cp": 57736,
+   "cat": "objects"
+  },
+  {
+   "n": "scarf",
+   "a": [
+    "scarf"
+   ],
+   "zh": "围巾",
+   "kw": [
+    "冷",
+    "包紧",
+    "围脖",
+    "头巾"
+   ],
+   "cp": 57737,
+   "cat": "objects"
+  },
+  {
+   "n": "gloves",
+   "a": [
+    "gloves"
+   ],
+   "zh": "手套",
+   "kw": [
+    "手"
+   ],
+   "cp": 57738,
+   "cat": "objects"
+  },
+  {
+   "n": "coat",
+   "a": [
+    "coat"
+   ],
+   "zh": "外套",
+   "kw": [
+    "冷",
+    "夹克",
+    "超冷"
+   ],
+   "cp": 57739,
+   "cat": "objects"
+  },
+  {
+   "n": "socks",
+   "a": [
+    "socks"
+   ],
+   "zh": "袜子",
+   "kw": [
+    "短袜",
+    "袜",
+    "长袜"
+   ],
+   "cp": 57740,
+   "cat": "objects"
+  },
+  {
+   "n": "dress",
+   "a": [
+    "dress"
+   ],
+   "zh": "连衣裙",
+   "kw": [
+    "衣服",
+    "裙子"
+   ],
+   "cp": 57741,
+   "cat": "objects"
+  },
+  {
+   "n": "kimono",
+   "a": [
+    "kimono"
+   ],
+   "zh": "和服",
+   "kw": [
+    "日本",
+    "衣服"
+   ],
+   "cp": 57742,
+   "cat": "objects"
+  },
+  {
+   "n": "sari",
+   "a": [
+    "sari"
+   ],
+   "zh": "纱丽",
+   "kw": [
+    "印度",
+    "披肩",
+    "莎丽",
+    "衣服",
+    "连衣裙"
+   ],
+   "cp": 57743,
+   "cat": "objects"
+  },
+  {
+   "n": "one_piece_swimsuit",
+   "a": [
+    "one_piece_swimsuit"
+   ],
+   "zh": "连体泳衣",
+   "kw": [
+    "一片式",
+    "泳衣",
+    "泳装",
+    "游泳",
+    "连身泳衣"
+   ],
+   "cp": 57744,
+   "cat": "objects"
+  },
+  {
+   "n": "swim_brief",
+   "a": [
+    "swim_brief",
+    "briefs"
+   ],
+   "zh": "三角裤",
+   "kw": [
+    "一片式",
+    "内裤",
+    "泳衣",
+    "泳装",
+    "短裤"
+   ],
+   "cp": 57745,
+   "cat": "objects"
+  },
+  {
+   "n": "shorts",
+   "a": [
+    "shorts"
+   ],
+   "zh": "短裤",
+   "kw": [
+    "内裤",
+    "四角裤",
+    "泳衣",
+    "泳装",
+    "泳裤",
+    "裤子"
+   ],
+   "cp": 57746,
+   "cat": "objects"
+  },
+  {
+   "n": "bikini",
+   "a": [
+    "bikini"
+   ],
+   "zh": "比基尼",
+   "kw": [
+    "三点式",
+    "泳装",
+    "游泳"
+   ],
+   "cp": 57747,
+   "cat": "objects"
+  },
+  {
+   "n": "womans_clothes",
+   "a": [
+    "womans_clothes",
+    "woman_s_clothes"
+   ],
+   "zh": "女装",
+   "kw": [
+    "女",
+    "女生衣服",
+    "女衬衫",
+    "衣服"
+   ],
+   "cp": 57748,
+   "cat": "objects"
+  },
+  {
+   "n": "folding_hand_fan",
+   "a": [
+    "folding_hand_fan"
+   ],
+   "zh": "折扇",
+   "kw": [
+    "凉",
+    "凉快",
+    "啪嗒声",
+    "害羞",
+    "扇",
+    "扇动"
+   ],
+   "cp": 57749,
+   "cat": "objects"
+  },
+  {
+   "n": "purse",
+   "a": [
+    "purse"
+   ],
+   "zh": "钱包",
+   "kw": [
+    "血拼",
+    "铜板"
+   ],
+   "cp": 57750,
+   "cat": "objects"
+  },
+  {
+   "n": "handbag",
+   "a": [
+    "handbag"
+   ],
+   "zh": "手提包",
+   "kw": [
+    "包包",
+    "挎包",
+    "血拼"
+   ],
+   "cp": 57751,
+   "cat": "objects"
+  },
+  {
+   "n": "pouch",
+   "a": [
+    "pouch",
+    "clutch_bag"
+   ],
+   "zh": "手袋",
+   "kw": [
+    "包",
+    "化妆包",
+    "手拿",
+    "手拿包"
+   ],
+   "cp": 57752,
+   "cat": "objects"
+  },
+  {
+   "n": "shopping",
+   "a": [
+    "shopping",
+    "shopping_bags"
+   ],
+   "zh": "购物袋",
+   "kw": [
+    "包",
+    "袋",
+    "购物",
+    "逛街"
+   ],
+   "cp": 57753,
+   "cat": "objects"
+  },
+  {
+   "n": "school_satchel",
+   "a": [
+    "school_satchel",
+    "backpack"
+   ],
+   "zh": "书包",
+   "kw": [
+    "上学",
+    "包"
+   ],
+   "cp": 57754,
+   "cat": "objects"
+  },
+  {
+   "n": "thong_sandal",
+   "a": [
+    "thong_sandal"
+   ],
+   "zh": "夹趾凉鞋",
+   "kw": [
+    "人字拖",
+    "凉鞋",
+    "沙滩",
+    "沙滩凉鞋",
+    "草屡",
+    "鞋"
+   ],
+   "cp": 57755,
+   "cat": "objects"
+  },
+  {
+   "n": "shoe",
+   "a": [
+    "shoe",
+    "mans_shoe",
+    "man_s_shoe"
+   ],
+   "zh": "男鞋",
+   "kw": [
+    "棕色",
+    "皮鞋",
+    "鞋"
+   ],
+   "cp": 57756,
+   "cat": "objects"
+  },
+  {
+   "n": "athletic_shoe",
+   "a": [
+    "athletic_shoe",
+    "running_shoe"
+   ],
+   "zh": "跑鞋",
+   "kw": [
+    "跑",
+    "运动鞋",
+    "鞋"
+   ],
+   "cp": 57757,
+   "cat": "objects"
+  },
+  {
+   "n": "hiking_boot",
+   "a": [
+    "hiking_boot"
+   ],
+   "zh": "登山鞋",
+   "kw": [
+    "健行",
+    "徒步",
+    "户外",
+    "登山",
+    "背包",
+    "远足野营"
+   ],
+   "cp": 57758,
+   "cat": "objects"
+  },
+  {
+   "n": "flat_shoe",
+   "a": [
+    "flat_shoe"
+   ],
+   "zh": "平底鞋",
+   "kw": [
+    "一脚蹬",
+    "便鞋",
+    "平底芭蕾舞鞋",
+    "芭蕾舞鞋"
+   ],
+   "cp": 57759,
+   "cat": "objects"
+  },
+  {
+   "n": "high_heel",
+   "a": [
+    "high_heel",
+    "high_heeled_shoe"
+   ],
+   "zh": "高跟鞋",
+   "kw": [
+    "女",
+    "时装",
+    "鞋",
+    "高跟"
+   ],
+   "cp": 57760,
+   "cat": "objects"
+  },
+  {
+   "n": "sandal",
+   "a": [
+    "sandal",
+    "woman_s_sandal"
+   ],
+   "zh": "女式凉鞋",
+   "kw": [
+    "凉鞋",
+    "女"
+   ],
+   "cp": 57761,
+   "cat": "objects"
+  },
+  {
+   "n": "ballet_shoes",
+   "a": [
+    "ballet_shoes"
+   ],
+   "zh": "芭蕾舞鞋",
+   "kw": [
+    "舞蹈",
+    "舞鞋",
+    "足尖鞋",
+    "跳舞"
+   ],
+   "cp": 57762,
+   "cat": "objects"
+  },
+  {
+   "n": "boot",
+   "a": [
+    "boot",
+    "woman_s_boot"
+   ],
+   "zh": "女靴",
+   "kw": [
+    "女",
+    "女式靴子",
+    "靴子"
+   ],
+   "cp": 57763,
+   "cat": "objects"
+  },
+  {
+   "n": "hair_pick",
+   "a": [
+    "hair_pick"
+   ],
+   "zh": "发夹",
+   "kw": [
+    "圆蓬",
+    "头发",
+    "夹子",
+    "小刷子",
+    "梳子",
+    "梳理"
+   ],
+   "cp": 57764,
+   "cat": "objects"
+  },
+  {
+   "n": "crown",
+   "a": [
+    "crown"
+   ],
+   "zh": "皇冠",
+   "kw": [
+    "国王",
+    "权力的游戏",
+    "王冠",
+    "王后",
+    "皇家"
+   ],
+   "cp": 57765,
+   "cat": "objects"
+  },
+  {
+   "n": "womans_hat",
+   "a": [
+    "womans_hat",
+    "woman_s_hat"
+   ],
+   "zh": "女帽",
+   "kw": [
+    "女",
+    "女式",
+    "帽子",
+    "花园派对"
+   ],
+   "cp": 57766,
+   "cat": "objects"
+  },
+  {
+   "n": "tophat",
+   "a": [
+    "tophat",
+    "top_hat"
+   ],
+   "zh": "礼帽",
+   "kw": [
+    "帽子",
+    "正式",
+    "高帽"
+   ],
+   "cp": 57767,
+   "cat": "objects"
+  },
+  {
+   "n": "mortar_board",
+   "a": [
+    "mortar_board",
+    "graduation_cap"
+   ],
+   "zh": "毕业帽",
+   "kw": [
+    "四方帽",
+    "学位",
+    "学者",
+    "毕业"
+   ],
+   "cp": 57768,
+   "cat": "objects"
+  },
+  {
+   "n": "billed_cap",
+   "a": [
+    "billed_cap"
+   ],
+   "zh": "鸭舌帽",
+   "kw": [
+    "帽子",
+    "棒球帽"
+   ],
+   "cp": 57769,
+   "cat": "objects"
+  },
+  {
+   "n": "military_helmet",
+   "a": [
+    "military_helmet"
+   ],
+   "zh": "军用头盔",
+   "kw": [
+    "军事",
+    "军用",
+    "军队",
+    "士兵",
+    "头盔",
+    "战争"
+   ],
+   "cp": 57770,
+   "cat": "objects"
+  },
+  {
+   "n": "rescue_worker_helmet",
+   "a": [
+    "rescue_worker_helmet",
+    "rescue_worker_s_helmet"
+   ],
+   "zh": "白十字头盔",
+   "kw": [
+    "十字",
+    "头盔",
+    "安全帽",
+    "救援人员头盔",
+    "脸"
+   ],
+   "cp": 57771,
+   "cat": "objects"
+  },
+  {
+   "n": "prayer_beads",
+   "a": [
+    "prayer_beads"
+   ],
+   "zh": "念珠",
+   "kw": [
+    "宗教",
+    "珠子",
+    "祈祷",
+    "项链"
+   ],
+   "cp": 57772,
+   "cat": "objects"
+  },
+  {
+   "n": "lipstick",
+   "a": [
+    "lipstick"
+   ],
+   "zh": "唇膏",
+   "kw": [
+    "化妆",
+    "化妆品",
+    "口红",
+    "约会"
+   ],
+   "cp": 57773,
+   "cat": "objects"
+  },
+  {
+   "n": "atm",
+   "a": [
+    "atm",
+    "atm_sign"
+   ],
+   "zh": "取款机",
+   "kw": [
+    "ATM",
+    "提款机",
+    "柜员机",
+    "标识",
+    "银行"
+   ],
+   "cp": 57774,
+   "cat": "symbols"
+  },
+  {
+   "n": "put_litter_in_its_place",
+   "a": [
+    "put_litter_in_its_place",
+    "litter_in_bin_sign"
+   ],
+   "zh": "倒垃圾",
+   "kw": [
+    "垃圾丢弃处",
+    "垃圾入篓",
+    "垃圾桶"
+   ],
+   "cp": 57775,
+   "cat": "symbols"
+  },
+  {
+   "n": "potable_water",
+   "a": [
+    "potable_water"
+   ],
+   "zh": "饮用水",
+   "kw": [
+    "可以喝的",
+    "喝水",
+    "接水",
+    "水",
+    "水龙头"
+   ],
+   "cp": 57776,
+   "cat": "symbols"
+  },
+  {
+   "n": "wheelchair",
+   "a": [
+    "wheelchair",
+    "wheelchair_symbol"
+   ],
+   "zh": "轮椅标识",
+   "kw": [
+    "无障碍",
+    "残疾",
+    "残障",
+    "轮椅",
+    "轮椅符号"
+   ],
+   "cp": 57777,
+   "cat": "symbols"
+  },
+  {
+   "n": "mens",
+   "a": [
+    "mens",
+    "men_s_room"
+   ],
+   "zh": "男厕",
+   "kw": [
+    "卫生间",
+    "厕所",
+    "洗手间",
+    "男士"
+   ],
+   "cp": 57778,
+   "cat": "symbols"
+  },
+  {
+   "n": "womens",
+   "a": [
+    "womens",
+    "women_s_room"
+   ],
+   "zh": "女厕",
+   "kw": [
+    "卫生间",
+    "厕所",
+    "女士",
+    "洗手间"
+   ],
+   "cp": 57779,
+   "cat": "symbols"
+  },
+  {
+   "n": "restroom",
+   "a": [
+    "restroom"
+   ],
+   "zh": "卫生间",
+   "kw": [
+    "WC",
+    "厕所",
+    "洗手间"
+   ],
+   "cp": 57780,
+   "cat": "symbols"
+  },
+  {
+   "n": "baby_symbol",
+   "a": [
+    "baby_symbol"
+   ],
+   "zh": "宝宝",
+   "kw": [
+    "婴儿",
+    "换尿片",
+    "母婴室"
+   ],
+   "cp": 57781,
+   "cat": "symbols"
+  },
+  {
+   "n": "wc",
+   "a": [
+    "wc",
+    "water_closet"
+   ],
+   "zh": "厕所",
+   "kw": [
+    "卫生间",
+    "洗手间",
+    "盥洗室"
+   ],
+   "cp": 57782,
+   "cat": "symbols"
+  },
+  {
+   "n": "passport_control",
+   "a": [
+    "passport_control"
+   ],
+   "zh": "护照检查",
+   "kw": [
+    "安检",
+    "护照",
+    "检查",
+    "通行证"
+   ],
+   "cp": 57783,
+   "cat": "symbols"
+  },
+  {
+   "n": "customs",
+   "a": [
+    "customs"
+   ],
+   "zh": "海关",
+   "kw": [
+    "行李打包"
+   ],
+   "cp": 57784,
+   "cat": "symbols"
+  },
+  {
+   "n": "baggage_claim",
+   "a": [
+    "baggage_claim"
+   ],
+   "zh": "提取行李",
+   "kw": [
+    "提取",
+    "旅行",
+    "行李"
+   ],
+   "cp": 57785,
+   "cat": "symbols"
+  },
+  {
+   "n": "left_luggage",
+   "a": [
+    "left_luggage"
+   ],
+   "zh": "寄存行李",
+   "kw": [
+    "储物柜",
+    "寄存",
+    "行李"
+   ],
+   "cp": 57786,
+   "cat": "symbols"
+  },
+  {
+   "n": "warning",
+   "a": [
+    "warning"
+   ],
+   "zh": "警告",
+   "kw": [
+    "小心"
+   ],
+   "cp": 57787,
+   "cat": "symbols"
+  },
+  {
+   "n": "children_crossing",
+   "a": [
+    "children_crossing"
+   ],
+   "zh": "儿童过街",
+   "kw": [
+    "交通",
+    "安全",
+    "指示牌",
+    "行人"
+   ],
+   "cp": 57788,
+   "cat": "symbols"
+  },
+  {
+   "n": "no_entry",
+   "a": [
+    "no_entry"
+   ],
+   "zh": "禁止通行",
+   "kw": [
+    "交通",
+    "禁止入内",
+    "禁行",
+    "请勿入内",
+    "请勿驶入"
+   ],
+   "cp": 57789,
+   "cat": "symbols"
+  },
+  {
+   "n": "no_entry_sign",
+   "a": [
+    "no_entry_sign",
+    "prohibited"
+   ],
+   "zh": "禁止",
+   "kw": [
+    "不准",
+    "不许",
+    "严禁",
+    "禁入",
+    "禁行",
+    "阻止"
+   ],
+   "cp": 57790,
+   "cat": "symbols"
+  },
+  {
+   "n": "no_bicycles",
+   "a": [
+    "no_bicycles"
+   ],
+   "zh": "禁止自行车",
+   "kw": [
+    "严禁",
+    "交通",
+    "禁止",
+    "禁行自行车",
+    "自行车",
+    "非机动车"
+   ],
+   "cp": 57791,
+   "cat": "symbols"
+  },
+  {
+   "n": "no_smoking",
+   "a": [
+    "no_smoking"
+   ],
+   "zh": "禁止吸烟",
+   "kw": [
+    "严禁",
+    "吸烟",
+    "抽烟",
+    "禁止",
+    "禁烟"
+   ],
+   "cp": 57792,
+   "cat": "symbols"
+  },
+  {
+   "n": "do_not_litter",
+   "a": [
+    "do_not_litter",
+    "no_littering"
+   ],
+   "zh": "禁止乱扔垃圾",
+   "kw": [
+    "严禁",
+    "垃圾",
+    "禁丢垃圾",
+    "禁止"
+   ],
+   "cp": 57793,
+   "cat": "symbols"
+  },
+  {
+   "n": "non-potable_water",
+   "a": [
+    "non-potable_water",
+    "non_potable_water"
+   ],
+   "zh": "非饮用水",
+   "kw": [
+    "水",
+    "禁止用水",
+    "节约用水",
+    "非直饮水"
+   ],
+   "cp": 57794,
+   "cat": "symbols"
+  },
+  {
+   "n": "no_pedestrians",
+   "a": [
+    "no_pedestrians"
+   ],
+   "zh": "禁止行人通行",
+   "kw": [
+    "严禁",
+    "行人"
+   ],
+   "cp": 57795,
+   "cat": "symbols"
+  },
+  {
+   "n": "no_mobile_phones",
+   "a": [
+    "no_mobile_phones"
+   ],
+   "zh": "禁止使用手机",
+   "kw": [
+    "严禁",
+    "手机",
+    "电话",
+    "禁止"
+   ],
+   "cp": 57796,
+   "cat": "symbols"
+  },
+  {
+   "n": "underage",
+   "a": [
+    "underage",
+    "no_one_under_eighteen"
+   ],
+   "zh": "18禁",
+   "kw": [
+    "儿童不宜",
+    "未成年人不宜",
+    "禁止"
+   ],
+   "cp": 57797,
+   "cat": "symbols"
+  },
+  {
+   "n": "radioactive",
+   "a": [
+    "radioactive"
+   ],
+   "zh": "辐射",
+   "kw": [
+    "放射性",
+    "标识"
+   ],
+   "cp": 57798,
+   "cat": "symbols"
+  },
+  {
+   "n": "biohazard",
+   "a": [
+    "biohazard"
+   ],
+   "zh": "生物危害",
+   "kw": [
+    "动物",
+    "当心感染",
+    "污染",
+    "警告"
+   ],
+   "cp": 57799,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrow_up",
+   "a": [
+    "arrow_up",
+    "up_arrow"
+   ],
+   "zh": "向上箭头",
+   "kw": [
+    "上",
+    "北",
+    "方位",
+    "方向",
+    "标识",
+    "箭头"
+   ],
+   "cp": 57800,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrow_upper_right",
+   "a": [
+    "arrow_upper_right",
+    "up_right_arrow"
+   ],
+   "zh": "右上箭头",
+   "kw": [
+    "东北",
+    "右上",
+    "方位",
+    "方向",
+    "标识",
+    "箭头"
+   ],
+   "cp": 57801,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrow_right",
+   "a": [
+    "arrow_right",
+    "right_arrow"
+   ],
+   "zh": "向右箭头",
+   "kw": [
+    "东",
+    "右",
+    "方向",
+    "标识",
+    "箭头"
+   ],
+   "cp": 57802,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrow_lower_right",
+   "a": [
+    "arrow_lower_right",
+    "down_right_arrow"
+   ],
+   "zh": "右下箭头",
+   "kw": [
+    "东南",
+    "右下",
+    "方位",
+    "方向",
+    "标识",
+    "箭头"
+   ],
+   "cp": 57803,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrow_down",
+   "a": [
+    "arrow_down",
+    "down_arrow"
+   ],
+   "zh": "向下箭头",
+   "kw": [
+    "南",
+    "向下",
+    "基本",
+    "方位",
+    "正南",
+    "箭头"
+   ],
+   "cp": 57804,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrow_lower_left",
+   "a": [
+    "arrow_lower_left",
+    "down_left_arrow"
+   ],
+   "zh": "左下箭头",
+   "kw": [
+    "左下",
+    "方向",
+    "标识",
+    "箭头",
+    "西南"
+   ],
+   "cp": 57805,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrow_left",
+   "a": [
+    "arrow_left",
+    "left_arrow"
+   ],
+   "zh": "向左箭头",
+   "kw": [
+    "左",
+    "方向",
+    "标识",
+    "箭头",
+    "西"
+   ],
+   "cp": 57806,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrow_upper_left",
+   "a": [
+    "arrow_upper_left",
+    "up_left_arrow"
+   ],
+   "zh": "左上箭头",
+   "kw": [
+    "左上",
+    "方向",
+    "标识",
+    "箭头",
+    "西北"
+   ],
+   "cp": 57807,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrow_up_down",
+   "a": [
+    "arrow_up_down",
+    "up_down_arrow"
+   ],
+   "zh": "上下箭头",
+   "kw": [
+    "上下",
+    "箭头"
+   ],
+   "cp": 57808,
+   "cat": "symbols"
+  },
+  {
+   "n": "left_right_arrow",
+   "a": [
+    "left_right_arrow"
+   ],
+   "zh": "左右箭头",
+   "kw": [
+    "左右",
+    "箭头"
+   ],
+   "cp": 57809,
+   "cat": "symbols"
+  },
+  {
+   "n": "right_arrow_curving_left",
+   "a": [
+    "right_arrow_curving_left"
+   ],
+   "zh": "右转弯箭头",
+   "kw": [
+    "右转弯",
+    "向左弯曲的右箭头",
+    "箭头"
+   ],
+   "cp": 57810,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrow_right_hook",
+   "a": [
+    "arrow_right_hook",
+    "left_arrow_curving_right"
+   ],
+   "zh": "左转弯箭头",
+   "kw": [
+    "向右弯曲的左箭头",
+    "左转弯",
+    "箭头"
+   ],
+   "cp": 57811,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrow_heading_up",
+   "a": [
+    "arrow_heading_up",
+    "right_arrow_curving_up"
+   ],
+   "zh": "右上弯箭头",
+   "kw": [
+    "右上弯",
+    "向上弯曲的右箭头",
+    "箭头"
+   ],
+   "cp": 57812,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrow_heading_down",
+   "a": [
+    "arrow_heading_down",
+    "right_arrow_curving_down"
+   ],
+   "zh": "右下弯箭头",
+   "kw": [
+    "右下弯",
+    "向下弯曲的右箭头",
+    "箭头"
+   ],
+   "cp": 57813,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrows_clockwise",
+   "a": [
+    "arrows_clockwise",
+    "clockwise_vertical_arrows"
+   ],
+   "zh": "顺时针垂直箭头",
+   "kw": [
+    "刷新",
+    "垂直顺时针箭头",
+    "方向",
+    "标识",
+    "箭头",
+    "重新载入"
+   ],
+   "cp": 57814,
+   "cat": "symbols"
+  },
+  {
+   "n": "arrows_counterclockwise",
+   "a": [
+    "arrows_counterclockwise",
+    "counterclockwise_arrows_button"
+   ],
+   "zh": "逆时针箭头按钮",
+   "kw": [
+    "倒转",
+    "再次",
+    "刷新",
+    "箭头",
+    "逆时针",
+    "逆时针箭头"
+   ],
+   "cp": 57815,
+   "cat": "symbols"
+  },
+  {
+   "n": "back",
+   "a": [
+    "back",
+    "back_arrow"
+   ],
+   "zh": "返回箭头",
+   "kw": [
+    "回退",
+    "箭头",
+    "返回"
+   ],
+   "cp": 57816,
+   "cat": "symbols"
+  },
+  {
+   "n": "end",
+   "a": [
+    "end",
+    "end_arrow"
+   ],
+   "zh": "结束箭头",
+   "kw": [
+    "箭头",
+    "终点",
+    "结束"
+   ],
+   "cp": 57817,
+   "cat": "symbols"
+  },
+  {
+   "n": "on",
+   "a": [
+    "on",
+    "on_arrow"
+   ],
+   "zh": "ON! 箭头",
+   "kw": [
+    "ON",
+    "开始",
+    "标识",
+    "箭头"
+   ],
+   "cp": 57818,
+   "cat": "symbols"
+  },
+  {
+   "n": "heart",
+   "a": [
+    "heart",
+    "red_heart"
+   ],
+   "zh": "红心",
+   "kw": [
+    "心",
+    "爱"
+   ],
+   "cp": 57819,
+   "cat": "smileys"
+  },
+  {
+   "n": "orange_heart",
+   "a": [
+    "orange_heart"
+   ],
+   "zh": "橙心",
+   "kw": [
+    "橘心",
+    "橘色",
+    "橘色的心",
+    "橙"
+   ],
+   "cp": 57820,
+   "cat": "smileys"
+  },
+  {
+   "n": "yellow_heart",
+   "a": [
+    "yellow_heart"
+   ],
+   "zh": "黄心",
+   "kw": [
+    "我爱你",
+    "黄"
+   ],
+   "cp": 57821,
+   "cat": "smileys"
+  },
+  {
+   "n": "green_heart",
+   "a": [
+    "green_heart"
+   ],
+   "zh": "绿心",
+   "kw": [
+    "我爱你",
+    "绿"
+   ],
+   "cp": 57822,
+   "cat": "smileys"
+  },
+  {
+   "n": "blue_heart",
+   "a": [
+    "blue_heart"
+   ],
+   "zh": "蓝心",
+   "kw": [
+    "我爱你",
+    "蓝"
+   ],
+   "cp": 57823,
+   "cat": "smileys"
+  },
+  {
+   "n": "purple_heart",
+   "a": [
+    "purple_heart"
+   ],
+   "zh": "紫心",
+   "kw": [
+    "我爱你",
+    "紫"
+   ],
+   "cp": 57824,
+   "cat": "smileys"
+  },
+  {
+   "n": "black_heart",
+   "a": [
+    "black_heart"
+   ],
+   "zh": "黑心",
+   "kw": [
+    "心",
+    "邪恶",
+    "黑",
+    "黑色",
+    "黑色的心"
+   ],
+   "cp": 57825,
+   "cat": "smileys"
+  },
+  {
+   "n": "white_heart",
+   "a": [
+    "white_heart"
+   ],
+   "zh": "白心",
+   "kw": [
+    "心",
+    "心形",
+    "爱心",
+    "白",
+    "白色",
+    "白色爱心"
+   ],
+   "cp": 57826,
+   "cat": "smileys"
+  },
+  {
+   "n": "brown_heart",
+   "a": [
+    "brown_heart"
+   ],
+   "zh": "棕心",
+   "kw": [
+    "心",
+    "心形",
+    "棕",
+    "棕色",
+    "棕色爱心",
+    "爱心"
+   ],
+   "cp": 57827,
+   "cat": "smileys"
+  },
+  {
+   "n": "broken_heart",
+   "a": [
+    "broken_heart"
+   ],
+   "zh": "心碎",
+   "kw": [
+    "伤心"
+   ],
+   "cp": 57828,
+   "cat": "smileys"
+  },
+  {
+   "n": "heart_on_fire",
+   "a": [
+    "heart_on_fire"
+   ],
+   "zh": "火上之心",
+   "kw": [
+    "渴望",
+    "燃烧",
+    "爱"
+   ],
+   "cp": 57829,
+   "cat": "smileys"
+  },
+  {
+   "n": "heartbeat",
+   "a": [
+    "heartbeat",
+    "beating_heart"
+   ],
+   "zh": "心跳",
+   "kw": [
+    "心动",
+    "我爱你",
+    "爱"
+   ],
+   "cp": 57830,
+   "cat": "smileys"
+  },
+  {
+   "n": "two_hearts",
+   "a": [
+    "two_hearts"
+   ],
+   "zh": "两颗心",
+   "kw": [
+    "我爱你",
+    "爱情"
+   ],
+   "cp": 57831,
+   "cat": "smileys"
+  },
+  {
+   "n": "sparkling_heart",
+   "a": [
+    "sparkling_heart"
+   ],
+   "zh": "闪亮的心",
+   "kw": [
+    "我爱你",
+    "激动",
+    "红心",
+    "闪亮"
+   ],
+   "cp": 57832,
+   "cat": "smileys"
+  },
+  {
+   "n": "heartpulse",
+   "a": [
+    "heartpulse",
+    "growing_heart"
+   ],
+   "zh": "搏动的心",
+   "kw": [
+    "亲亲",
+    "吻",
+    "我爱你",
+    "搏动",
+    "激动",
+    "紧张"
+   ],
+   "cp": 57833,
+   "cat": "smileys"
+  },
+  {
+   "n": "cupid",
+   "a": [
+    "cupid",
+    "heart_with_arrow"
+   ],
+   "zh": "心中箭了",
+   "kw": [
+    "一箭穿心",
+    "丘比特",
+    "我爱你",
+    "浪漫",
+    "爱情",
+    "箭"
+   ],
+   "cp": 57834,
+   "cat": "smileys"
+  },
+  {
+   "n": "revolving_hearts",
+   "a": [
+    "revolving_hearts"
+   ],
+   "zh": "舞动的心",
+   "kw": [
+    "我爱你",
+    "旋转",
+    "涌动",
+    "跃动"
+   ],
+   "cp": 57835,
+   "cat": "smileys"
+  },
+  {
+   "n": "heart_decoration",
+   "a": [
+    "heart_decoration"
+   ],
+   "zh": "心型装饰",
+   "kw": [
+    "心",
+    "我爱你",
+    "装饰"
+   ],
+   "cp": 57836,
+   "cat": "smileys"
+  },
+  {
+   "n": "love_letter",
+   "a": [
+    "love_letter"
+   ],
+   "zh": "情书",
+   "kw": [
+    "信",
+    "心",
+    "邮件"
+   ],
+   "cp": 57837,
+   "cat": "smileys"
+  },
+  {
+   "n": "kiss",
+   "a": [
+    "kiss",
+    "kiss_mark"
+   ],
+   "zh": "唇印",
+   "kw": [
+    "亲吻",
+    "吻",
+    "唇",
+    "性感",
+    "接吻",
+    "浪漫"
+   ],
+   "cp": 57838,
+   "cat": "smileys"
+  },
+  {
+   "n": "fire",
+   "a": [
+    "fire"
+   ],
+   "zh": "火焰",
+   "kw": [
+    "火",
+    "烧",
+    "燃烧"
+   ],
+   "cp": 57839,
+   "cat": "travel"
+  },
+  {
+   "n": "star2",
+   "a": [
+    "star2",
+    "glowing_star"
+   ],
+   "zh": "闪亮的星星",
+   "kw": [
+    "发光",
+    "星星",
+    "闪亮",
+    "闪光"
+   ],
+   "cp": 57840,
+   "cat": "travel"
+  },
+  {
+   "n": "star",
+   "a": [
+    "star"
+   ],
+   "zh": "星星",
+   "kw": [
+    "五角星",
+    "白色星星"
+   ],
+   "cp": 57841,
+   "cat": "travel"
+  },
+  {
+   "n": "100",
+   "a": [
+    "100",
+    "hundred_points"
+   ],
+   "zh": "一百分",
+   "kw": [
+    "100",
+    "满分",
+    "百分百",
+    "绝对",
+    "考试"
+   ],
+   "cp": 57842,
+   "cat": "smileys"
+  },
+  {
+   "n": "sunny",
+   "a": [
+    "sunny",
+    "sun"
+   ],
+   "zh": "太阳",
+   "kw": [
+    "光线",
+    "晴",
+    "晴天",
+    "阳光明媚",
+    "阳光普照"
+   ],
+   "cp": 57843,
+   "cat": "travel"
+  },
+  {
+   "n": "crescent_moon",
+   "a": [
+    "crescent_moon",
+    "moon"
+   ],
+   "zh": "弯月",
+   "kw": [
+    "娥眉月",
+    "新月形",
+    "月亮",
+    "残月",
+    "蛾眉月"
+   ],
+   "cp": 57844,
+   "cat": "travel"
+  },
+  {
+   "n": "cloud",
+   "a": [
+    "cloud"
+   ],
+   "zh": "云",
+   "kw": [
+    "云彩",
+    "云朵",
+    "天气",
+    "阴"
+   ],
+   "cp": 57845,
+   "cat": "travel"
+  },
+  {
+   "n": "rainbow",
+   "a": [
+    "rainbow"
+   ],
+   "zh": "彩虹",
+   "kw": [
+    "LGBT",
+    "双性恋",
+    "同志",
+    "跨性别"
+   ],
+   "cp": 57846,
+   "cat": "travel"
+  },
+  {
+   "n": "snowflake",
+   "a": [
+    "snowflake"
+   ],
+   "zh": "雪花",
+   "kw": [
+    "冷",
+    "天气",
+    "雪"
+   ],
+   "cp": 57847,
+   "cat": "travel"
+  },
+  {
+   "n": "open_umbrella",
+   "a": [
+    "open_umbrella",
+    "umbrella"
+   ],
+   "zh": "伞",
+   "kw": [
+    "雨",
+    "雨伞"
+   ],
+   "cp": 57848,
+   "cat": "travel"
+  },
+  {
+   "n": "rocket",
+   "a": [
+    "rocket"
+   ],
+   "zh": "火箭",
+   "kw": [
+    "发射",
+    "太空",
+    "旅行"
+   ],
+   "cp": 57849,
+   "cat": "travel"
+  },
+  {
+   "n": "gem",
+   "a": [
+    "gem",
+    "gem_stone"
+   ],
+   "zh": "宝石",
+   "kw": [
+    "婚礼",
+    "珠宝",
+    "订婚",
+    "钻石"
+   ],
+   "cp": 57850,
+   "cat": "objects"
+  },
+  {
+   "n": "bell",
+   "a": [
+    "bell"
+   ],
+   "zh": "铃铛",
+   "kw": [
+    "叮当",
+    "响铃",
+    "钟",
+    "钟声",
+    "铃声"
+   ],
+   "cp": 57851,
+   "cat": "objects"
+  },
+  {
+   "n": "birthday",
+   "a": [
+    "birthday",
+    "birthday_cake"
+   ],
+   "zh": "生日蛋糕",
+   "kw": [
+    "庆祝",
+    "甜",
+    "甜点",
+    "生日",
+    "生日快乐",
+    "糕点"
+   ],
+   "cp": 57852,
+   "cat": "food"
+  },
+  {
+   "n": "beer",
+   "a": [
+    "beer",
+    "beer_mug"
+   ],
+   "zh": "啤酒",
+   "kw": [
+    "啤酒节",
+    "喝酒",
+    "杯",
+    "酒",
+    "酒吧"
+   ],
+   "cp": 57853,
+   "cat": "food"
+  },
+  {
+   "n": "beers",
+   "a": [
+    "beers",
+    "clinking_beer_mugs"
+   ],
+   "zh": "干杯",
+   "kw": [
+    "啤酒",
+    "喝酒",
+    "碰杯",
+    "酒",
+    "酒吧"
+   ],
+   "cp": 57854,
+   "cat": "food"
+  },
+  {
+   "n": "coffee",
+   "a": [
+    "coffee",
+    "hot_beverage"
+   ],
+   "zh": "热饮",
+   "kw": [
+    "咖啡",
+    "早晨",
+    "星巴克",
+    "热气腾腾",
+    "茶",
+    "饮料"
+   ],
+   "cp": 57855,
+   "cat": "food"
+  },
+  {
+   "n": "popcorn",
+   "a": [
+    "popcorn"
+   ],
+   "zh": "爆米花",
+   "kw": [
+    "看电影"
+   ],
+   "cp": 57856,
+   "cat": "food"
+  },
+  {
+   "n": "doughnut",
+   "a": [
+    "doughnut"
+   ],
+   "zh": "甜甜圈",
+   "kw": [
+    "甜",
+    "甜点",
+    "食物"
+   ],
+   "cp": 57857,
+   "cat": "food"
+  },
+  {
+   "n": "cookie",
+   "a": [
+    "cookie"
+   ],
+   "zh": "饼干",
+   "kw": [
+    "巧克力片",
+    "曲奇",
+    "曲奇饼",
+    "甜点"
+   ],
+   "cp": 57858,
+   "cat": "food"
+  },
+  {
+   "n": "video_game",
+   "a": [
+    "video_game"
+   ],
+   "zh": "游戏手柄",
+   "kw": [
+    "手柄",
+    "游戏",
+    "游戏控制器",
+    "电子游戏"
+   ],
+   "cp": 57859,
+   "cat": "activities"
+  },
+  {
+   "n": "notes",
+   "a": [
+    "notes",
+    "musical_notes"
+   ],
+   "zh": "多个音符",
+   "kw": [
+    "乐谱",
+    "五线谱",
+    "八分音符",
+    "音乐",
+    "音符"
+   ],
+   "cp": 57860,
+   "cat": "objects"
+  },
+  {
+   "n": "white_check_mark",
+   "a": [
+    "white_check_mark",
+    "check_mark_button"
+   ],
+   "zh": "勾号按钮",
+   "kw": [
+    "勾",
+    "勾号",
+    "完成",
+    "打勾",
+    "按钮",
+    "绿色打勾"
+   ],
+   "cp": 57861,
+   "cat": "symbols"
+  },
+  {
+   "n": "x",
+   "a": [
+    "x",
+    "cross_mark"
+   ],
+   "zh": "叉号",
+   "kw": [
+    "x",
+    "乘",
+    "交叉",
+    "取消",
+    "相乘",
+    "符号"
+   ],
+   "cp": 57862,
+   "cat": "symbols"
+  },
+  {
+   "n": "speech_balloon",
+   "a": [
+    "speech_balloon"
+   ],
+   "zh": "话语气泡",
+   "kw": [
+    "发言",
+    "对话框",
+    "气泡",
+    "气泡对话框",
+    "气球",
+    "漫画"
+   ],
+   "cp": 57863,
+   "cat": "smileys"
+  },
+  {
+   "n": "question",
+   "a": [
+    "question",
+    "red_question_mark"
+   ],
+   "zh": "红色问号",
+   "kw": [
+    "为什么",
+    "标点",
+    "标点符号",
+    "疑问",
+    "问号"
+   ],
+   "cp": 57864,
+   "cat": "symbols"
+  },
+  {
+   "n": "exclamation",
+   "a": [
+    "exclamation",
+    "heavy_exclamation_mark",
+    "red_exclamation_mark"
+   ],
+   "zh": "红色感叹号",
+   "kw": [
+    "叹号",
+    "吃惊",
+    "惊讶",
+    "感叹",
+    "感叹号",
+    "标点符号"
+   ],
+   "cp": 57865,
+   "cat": "symbols"
+  },
+  {
+   "n": "grey_question",
+   "a": [
+    "grey_question",
+    "white_question_mark"
+   ],
+   "zh": "白色问号",
+   "kw": [
+    "为什么",
+    "标点符号",
+    "空心",
+    "空心问号",
+    "问号",
+    "问题"
+   ],
+   "cp": 57866,
+   "cat": "symbols"
+  },
+  {
+   "n": "grey_exclamation",
+   "a": [
+    "grey_exclamation",
+    "white_exclamation_mark"
+   ],
+   "zh": "白色感叹号",
+   "kw": [
+    "叹号",
+    "吃惊",
+    "标点符号",
+    "白色叹号",
+    "空心",
+    "空心叹号"
+   ],
+   "cp": 57867,
+   "cat": "symbols"
+  },
+  {
+   "n": "interrobang",
+   "a": [
+    "interrobang",
+    "exclamation_question_mark"
+   ],
+   "zh": "感叹疑问号",
+   "kw": [
+    "叹号",
+    "叹号加问号",
+    "吃惊",
+    "标点符号",
+    "疑问惊叹号",
+    "问号"
+   ],
+   "cp": 57868,
+   "cat": "symbols"
+  }
+ ]
+}
